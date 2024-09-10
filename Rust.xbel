@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1933: for Floccus bookmark sync browser extension -->
+<!--- highestId :1934: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Algorithms</title>
@@ -31,6 +31,9 @@
   </bookmark>
   <bookmark href="https://github.com/rust-unofficial/awesome-rust" id="18">
     <title>rust-unofficial/awesome-rust: A curated list of Rust code and resources.</title>
+  </bookmark>
+  <bookmark href="https://ruststack.org/" id="1934">
+    <title>RustStack.Org</title>
   </bookmark>
   <bookmark href="https://separator.floccus.org/?id=419856" id="19">
     <title>-----</title>
