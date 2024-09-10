@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1935: for Floccus bookmark sync browser extension -->
+<!--- highestId :1938: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Algorithms</title>
@@ -3223,7 +3223,7 @@ https://docs.microsoft.com/en-us/windows/terminal/cascadia-code</title>
         <title>Rust in Linux: Where we are and where we&apos;re going next | ZDNET</title>
       </bookmark>
       <bookmark href="https://www.jackos.io/rust-kernel/rust-for-linux.html" id="1935">
-        <title>Linux kernel development | JackOS#__#&lt;&lt;vscode and docker&gt;&gt; &lt;&lt;connect into the docker#green&gt;&gt; &lt;&lt;Remote Development&gt;&gt; &lt;&lt;extension&gt;&gt; </title>
+        <title>Linux kernel development | JackOS#__#&lt;&lt;vscode and docker&gt;&gt; &lt;&lt;connect into the docker#green&gt;&gt; &lt;&lt;Remote Development&gt;&gt; &lt;&lt;extension&gt;&gt;</title>
       </bookmark>
       <bookmark href="https://separator.floccus.org/?id=564056" id="739">
         <title>-----</title>
@@ -3380,6 +3380,15 @@ https://docs.microsoft.com/en-us/windows/terminal/cascadia-code</title>
       </bookmark>
       <bookmark href="https://gitlab.redox-os.org/redox-os/ralloc/-/blob/master/README.md" id="759">
         <title>README.md · master · redox-os / ralloc · GitLab#__#&lt;&lt;code quality very good#green&gt;&gt; &lt;&lt;as the default Redox#green&gt;&gt; &lt;&lt;userspace allocator#green&gt;&gt; &lt;&lt;Thread-local allocation&gt;&gt; &lt;&lt;global-local#green&gt;&gt; &lt;&lt;First-class debugger#green&gt;&gt; &lt;&lt;default: valgrind#green&gt;&gt; &lt;&lt;detect memory leaks and uninitialized use out-of-the-box&gt;&gt; &lt;&lt;Logging#green&gt;&gt; &lt;&lt;leak the vector&gt;&gt; &lt;&lt;splitting the original vector&gt;&gt; &lt;&lt;Vec::from_raw_parts(ptr, 100, 100)&gt;&gt; &lt;&lt;multi-stage verification#green&gt;&gt; &lt;&lt;ralloc cannot coexist with another allocator#red&gt;&gt; &lt;&lt;unless they&apos;re deliberately compatible#blue&gt;&gt; &lt;&lt;configure#green&gt;&gt; &lt;&lt;By changing the shim module#green&gt;&gt; &lt;&lt;reallocation strategy#green&gt;&gt; &lt;&lt;memtrim limits#green&gt;&gt; &lt;&lt;log target,#green&gt;&gt; &lt;&lt;ralloc::set_oom_handler#green&gt;&gt; &lt;&lt;ralloc::set_thread_oom_handler#green&gt;&gt; &lt;&lt;Partial deallocation#green&gt;&gt; &lt;&lt;split it#green&gt;&gt; &lt;&lt;create two vectors#green&gt;&gt; &lt;&lt;destructor of a and b is called#green&gt;&gt; &lt;&lt;security flag#green&gt;&gt; &lt;&lt;frees zeroing#green&gt;&gt; &lt;&lt;type checker#green&gt;&gt; &lt;&lt;affine types#green&gt;&gt; &lt;&lt;unit tests, even for private#green&gt;&gt; &lt;&lt;ralloc_shim, a minimal interface for platform dependent&gt;&gt; &lt;&lt;limitation of libc is that you cannot do reallocation inplace-only#red&gt;&gt; &lt;&lt;failable method that guarantees the absence of memcpy of the buffer#blue&gt;&gt; &lt;&lt;mem::forget(vec);#green&gt;&gt; &lt;&lt;ralloc::inplace_realloc#green&gt;&gt; &lt;&lt;ralloc::alloc&gt;&gt; &lt;&lt;ralloc::sbrk&gt;&gt; &lt;&lt;ralloc::try_alloc&gt;&gt; &lt;&lt;default shim implementation is wired to valgrind#green&gt;&gt; &lt;&lt;when the debugger feature is enabled&gt;&gt;&lt;&lt;somewhat slower than jemalloc#red&gt;&gt; &lt;&lt;hasn&apos;t been optimized yet#red&gt;&gt; &lt;&lt;authored&gt;&gt; &lt;&lt;6 years ago#red&gt;&gt;</title>
+      </bookmark>
+      <bookmark href="https://separator.floccus.org/?id=296070" id="1936">
+        <title>-----</title>
+      </bookmark>
+      <bookmark href="https://docs.rs/crate/ralloc/1.0.0/builds/102807" id="1937">
+        <title>ralloc 1.0.0 - Docs.rs</title>
+      </bookmark>
+      <bookmark href="https://docs.rs/crate/ralloc/latest" id="1938">
+        <title>ralloc 1.0.0 - Docs.rs</title>
       </bookmark>
     </folder>
     <folder id="1492">
