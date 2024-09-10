@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1938: for Floccus bookmark sync browser extension -->
+<!--- highestId :1939: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Algorithms</title>
@@ -1176,6 +1176,9 @@
     <title>crates.io - Data Mining</title>
     <bookmark href="https://crates.io/data-access" id="194">
       <title>crates.io: Rust Package Registry#__#&lt;&lt;sparse index&gt;&gt; &lt;&lt;index.crates.io&gt;&gt; &lt;&lt;extremely efficient&gt;&gt; &lt;&lt;single&gt;&gt; &lt;&lt;small number of crates&gt;&gt; &lt;&lt;No rate limits&gt;&gt; &lt;&lt;rust-lang/crates.io-index&gt;&gt; &lt;&lt;more efficient&gt;&gt; &lt;&lt;most or all crates&gt;&gt; &lt;&lt;GitHub&apos;s Acceptable Use&gt;&gt; &lt;&lt;crates.io API@1&gt;&gt; &lt;&lt;1 request per second#red&gt;&gt; &lt;&lt;user-agent header that identifies your application&gt;&gt;</title>
+    </bookmark>
+    <bookmark href="https://doc.rust-lang.org/cargo/reference/registry-index.html" id="1939">
+      <title>Registry Index - The Cargo Book</title>
     </bookmark>
     <bookmark href="https://github.com/dtolnay/get-all-crates/blob/master/README.md" id="195">
       <title>get-all-crates/README.md at master · dtolnay/get-all-crates</title>
