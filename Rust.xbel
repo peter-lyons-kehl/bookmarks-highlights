@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1934: for Floccus bookmark sync browser extension -->
+<!--- highestId :1935: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Algorithms</title>
@@ -3221,6 +3221,9 @@ https://docs.microsoft.com/en-us/windows/terminal/cascadia-code</title>
       </bookmark>
       <bookmark href="https://www.zdnet.com/article/rust-in-linux-where-we-are-and-where-were-going-next/#Steven%20Vaughan-Nichols" id="738">
         <title>Rust in Linux: Where we are and where we&apos;re going next | ZDNET</title>
+      </bookmark>
+      <bookmark href="https://www.jackos.io/rust-kernel/rust-for-linux.html" id="1935">
+        <title>Linux kernel development | JackOS</title>
       </bookmark>
       <bookmark href="https://separator.floccus.org/?id=564056" id="739">
         <title>-----</title>
