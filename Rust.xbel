@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1940: for Floccus bookmark sync browser extension -->
+<!--- highestId :1942: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Algorithms</title>
@@ -3750,6 +3750,12 @@ https://docs.microsoft.com/en-us/windows/terminal/cascadia-code</title>
       <bookmark href="https://nikolaivazquez.com/blog/divan/" id="1395">
         <title>Divan: Fast and Simple Benchmarking for Rust · Nikolai Vazquez#__#&lt;&lt;comfy benchmarking#green&gt;&gt;</title>
       </bookmark>
+      <bookmark href="https://separator.floccus.org/?id=945477" id="1941">
+        <title>-----</title>
+      </bookmark>
+      <bookmark href="https://github.com/bencherdev/bencher" id="1942">
+        <title>bencherdev/bencher: 🐰 Bencher - Continuous Benchmarking</title>
+      </bookmark>
     </folder>
   </folder>
   <folder id="61">
@@ -5425,7 +5431,7 @@ https://docs.microsoft.com/en-us/windows/terminal/cascadia-code</title>
         <title>FloatToInt in std::convert - Rust</title>
       </bookmark>
       <bookmark href="https://doc.rust-lang.org/core/num/struct.Wrapping.html" id="1940">
-        <title>Wrapping in core::num - Rust#__#&lt;&lt;relies upon modular arithmetic&gt;&gt; &lt;&lt;e.g., hashing&gt;&gt; &lt;&lt;same layout and ABI as T#green&gt;&gt; </title>
+        <title>Wrapping in core::num - Rust#__#&lt;&lt;relies upon modular arithmetic&gt;&gt; &lt;&lt;e.g., hashing&gt;&gt; &lt;&lt;same layout and ABI as T#green&gt;&gt;</title>
       </bookmark>
     </folder>
   </folder>
