@@ -5425,7 +5425,7 @@ https://docs.microsoft.com/en-us/windows/terminal/cascadia-code</title>
         <title>FloatToInt in std::convert - Rust</title>
       </bookmark>
       <bookmark href="https://doc.rust-lang.org/core/num/struct.Wrapping.html" id="1940">
-        <title>Wrapping in core::num - Rust</title>
+        <title>Wrapping in core::num - Rust#__#&lt;&lt;relies upon modular arithmetic&gt;&gt; &lt;&lt;e.g., hashing&gt;&gt; </title>
       </bookmark>
     </folder>
   </folder>
