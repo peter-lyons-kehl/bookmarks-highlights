@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1943: for Floccus bookmark sync browser extension -->
+<!--- highestId :1945: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Algorithms</title>
@@ -2369,6 +2369,12 @@ https://docs.microsoft.com/en-us/windows/terminal/cascadia-code</title>
       </bookmark>
       <bookmark href="https://github.com/rust-lang/rustfmt/pull/5538" id="1918">
         <title>Add unstable `format_brace_macros` option by trevyn · Pull Request #5538 · rust-lang/rustfmt#__#&lt;&lt;already uses heuristics for parentheses () delimited and bracket []#green&gt;&gt; &lt;&lt;not currently attempt to format brace delimited#red&gt;&gt;</title>
+      </bookmark>
+    </folder>
+    <folder id="1944">
+      <title>Rust on Android</title>
+      <bookmark href="https://github.com/makepad/makepad" id="1945">
+        <title>makepad/makepad: Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl</title>
       </bookmark>
     </folder>
     <folder id="1902">
