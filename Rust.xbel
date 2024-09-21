@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1942: for Floccus bookmark sync browser extension -->
+<!--- highestId :1943: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Algorithms</title>
@@ -2348,6 +2348,9 @@ https://docs.microsoft.com/en-us/windows/terminal/cascadia-code</title>
       </bookmark>
       <bookmark href="https://github.com/imgui-rs/imgui-rs" id="1913">
         <title>imgui-rs/imgui-rs: Rust bindings for Dear ImGui</title>
+      </bookmark>
+      <bookmark href="https://github.com/slint-ui/slint/blob/master/README.md" id="1943">
+        <title>slint/README.md at master · slint-ui/slint</title>
       </bookmark>
     </folder>
     <folder id="1901">
