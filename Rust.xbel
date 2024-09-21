@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1949: for Floccus bookmark sync browser extension -->
+<!--- highestId :1950: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Algorithms</title>
@@ -2355,14 +2355,17 @@ https://docs.microsoft.com/en-us/windows/terminal/cascadia-code</title>
       <bookmark href="https://separator.floccus.org/?id=180178" id="1949">
         <title>-----</title>
       </bookmark>
-      <bookmark href="https://www.reddit.com/r/rust/comments/1d7w5xp/whats_the_current_modern_way_of_writing_android/" id="1948">
-        <title>What&apos;s the current, modern way of writing Android apps, purely in Rust? : r/rust#__#&lt;&lt;Egui is plenty lightweight#green&gt;&gt; &lt;&lt;egui-android&gt;&gt; &lt;&lt;egui-mobile&gt;&gt; &lt;&lt;egui is ultra fast#green&gt;&gt;</title>
+      <bookmark href="https://github.com/sagebind/fmbq-timer/tree/rust-rewrite/" id="1950">
+        <title>sagebind/fmbq-timer at rust-rewrite</title>
       </bookmark>
       <bookmark href="https://separator.floccus.org/?id=314891" id="1946">
         <title>-----</title>
       </bookmark>
       <bookmark href="https://github.com/redbadger/crux" id="1947">
         <title>redbadger/crux: Cross-platform app development in Rust</title>
+      </bookmark>
+      <bookmark href="https://www.reddit.com/r/rust/comments/1d7w5xp/whats_the_current_modern_way_of_writing_android/" id="1948">
+        <title>What&apos;s the current, modern way of writing Android apps, purely in Rust? : r/rust#__#&lt;&lt;Egui is plenty lightweight#green&gt;&gt; &lt;&lt;egui-android&gt;&gt; &lt;&lt;egui-mobile&gt;&gt; &lt;&lt;egui is ultra fast#green&gt;&gt;</title>
       </bookmark>
     </folder>
     <folder id="1901">
