@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1947: for Floccus bookmark sync browser extension -->
+<!--- highestId :1948: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Algorithms</title>
@@ -2351,6 +2351,9 @@ https://docs.microsoft.com/en-us/windows/terminal/cascadia-code</title>
       </bookmark>
       <bookmark href="https://github.com/slint-ui/slint/blob/master/README.md" id="1943">
         <title>slint/README.md at master · slint-ui/slint</title>
+      </bookmark>
+      <bookmark href="https://www.reddit.com/r/rust/comments/1d7w5xp/whats_the_current_modern_way_of_writing_android/" id="1948">
+        <title>What&apos;s the current, modern way of writing Android apps, purely in Rust? : r/rust</title>
       </bookmark>
       <bookmark href="https://separator.floccus.org/?id=180178" id="1946">
         <title>-----</title>
