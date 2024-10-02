@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1951: for Floccus bookmark sync browser extension -->
+<!--- highestId :1952: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Algorithms</title>
@@ -1301,6 +1301,9 @@
       </bookmark>
       <bookmark href="https://rr-project.org/" id="595">
         <title>rr: lightweight recording &amp; deterministic debugging#__#&lt;&lt;replacing — well, enhancing — gdb&gt;&gt;</title>
+      </bookmark>
+      <bookmark href="https://github.com/SeaQL/FireDBG.for.Rust/discussions" id="1952">
+        <title>SeaQL/FireDBG.for.Rust · Discussions · GitHub</title>
       </bookmark>
     </folder>
     <folder id="212">
