@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1952: for Floccus bookmark sync browser extension -->
+<!--- highestId :1953: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Algorithms</title>
@@ -3785,6 +3785,9 @@ https://docs.microsoft.com/en-us/windows/terminal/cascadia-code</title>
       </bookmark>
       <bookmark href="https://github.com/bencherdev/bencher" id="1942">
         <title>bencherdev/bencher: 🐰 Bencher - Continuous Benchmarking</title>
+      </bookmark>
+      <bookmark href="https://bencher.dev/" id="1953">
+        <title>Bencher - Continuous Benchmarking</title>
       </bookmark>
     </folder>
   </folder>
