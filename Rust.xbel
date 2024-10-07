@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1953: for Floccus bookmark sync browser extension -->
+<!--- highestId :1954: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Algorithms</title>
@@ -4923,6 +4923,9 @@ https://docs.microsoft.com/en-us/windows/terminal/cascadia-code</title>
     </bookmark>
     <bookmark href="https://doc.rust-lang.org/nightly/core/str/struct.Chars.html" id="372">
       <title>Chars in core::str - Rust#__#&lt;&lt;subslice of the original data&gt;&gt; &lt;&lt;same lifetime as the original slice&gt;&gt; &lt;&lt;so the iterator can continue to be used while this exists#green&gt;&gt;</title>
+    </bookmark>
+    <bookmark href="https://sanjeevi.hashnode.dev/answering-rust-strings-utf-8-variable-encoding-clone-on-write-cow-string-trait-methods-and-why-strings-cant-be-indexed" id="1954">
+      <title>Rust, String, UTF-8</title>
     </bookmark>
     <bookmark href="https://separator.floccus.org/?id=984585" id="373">
       <title>-----</title>
