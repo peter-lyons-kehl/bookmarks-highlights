@@ -4925,7 +4925,7 @@ https://docs.microsoft.com/en-us/windows/terminal/cascadia-code</title>
       <title>Chars in core::str - Rust#__#&lt;&lt;subslice of the original data&gt;&gt; &lt;&lt;same lifetime as the original slice&gt;&gt; &lt;&lt;so the iterator can continue to be used while this exists#green&gt;&gt;</title>
     </bookmark>
     <bookmark href="https://sanjeevi.hashnode.dev/answering-rust-strings-utf-8-variable-encoding-clone-on-write-cow-string-trait-methods-and-why-strings-cant-be-indexed" id="1954">
-      <title>Rust, String, UTF-8#__#&lt;&lt;right to left&gt;&gt; &lt;&lt;next() in those languages returns the last character as the first#red&gt;&gt; &lt;&lt;ranges can be combined#red&gt;&gt; </title>
+      <title>Rust, String, UTF-8#__#&lt;&lt;right to left&gt;&gt; &lt;&lt;next() in those languages returns the last character as the first#red&gt;&gt; </title>
     </bookmark>
     <bookmark href="https://separator.floccus.org/?id=984585" id="373">
       <title>-----</title>
