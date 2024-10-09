@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1956: for Floccus bookmark sync browser extension -->
+<!--- highestId :1958: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Algorithms</title>
@@ -435,6 +435,12 @@
     </folder>
     <folder id="144">
       <title>Pin</title>
+      <bookmark href="https://www.reddit.com/r/rust/comments/eo7u4o/futures_pinning_101/" id="1957">
+        <title>Futures &amp; Pinning 101 : r/rust</title>
+      </bookmark>
+      <bookmark href="https://separator.floccus.org/?id=627522" id="1958">
+        <title>-----</title>
+      </bookmark>
       <bookmark href="https://doc.rust-lang.org/nightly/core/marker/trait.Unpin.html" id="473">
         <title>core::marker::Unpin - Rust</title>
       </bookmark>
