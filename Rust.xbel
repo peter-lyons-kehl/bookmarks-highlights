@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1955: for Floccus bookmark sync browser extension -->
+<!--- highestId :1956: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Algorithms</title>
@@ -3781,7 +3781,7 @@ https://docs.microsoft.com/en-us/windows/terminal/cascadia-code</title>
         <title>llogiq/flame: An intrusive flamegraph profiling tool for rust.#__#&lt;&lt;Unlike tools like perf#red&gt;&gt; &lt;&lt;OS interrupt your running program repeatedly#red&gt;&gt; &lt;&lt;FLAME lets you choose what you want to see in the graph by adding performance instrumentation#green&gt;&gt;</title>
       </bookmark>
       <bookmark href="https://nikolaivazquez.com/blog/divan/" id="1395">
-        <title>Divan: Fast and Simple Benchmarking for Rust · Nikolai Vazquez#__#&lt;&lt;comfy benchmarking#green&gt;&gt; &lt;&lt;nikolai#green&gt;&gt; &lt;&lt;azquez#green&gt;&gt; </title>
+        <title>Divan: Fast and Simple Benchmarking for Rust · Nikolai Vazquez#__#&lt;&lt;comfy benchmarking#green&gt;&gt; &lt;&lt;nikolai#green&gt;&gt; &lt;&lt;azquez#green&gt;&gt;</title>
       </bookmark>
       <bookmark href="https://separator.floccus.org/?id=945477" id="1941">
         <title>-----</title>
@@ -5630,6 +5630,9 @@ https://docs.microsoft.com/en-us/windows/terminal/cascadia-code</title>
       </bookmark>
       <bookmark href="https://extism.org/docs/integrate-into-your-codebase/rust-host-sdk/" id="1649">
         <title>Rust | Extism - make all software programmable. Extend from within.</title>
+      </bookmark>
+      <bookmark href="https://www.reddit.com/r/rust/comments/1cwmyaw/multithreading_with_wasm_on_the_browser_is_it/" id="1956">
+        <title>Multithreading with WASM on the Browser. Is it possible yet? : r/rust</title>
       </bookmark>
     </folder>
   </folder>
