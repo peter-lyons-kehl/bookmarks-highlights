@@ -1732,7 +1732,7 @@
     <folder id="1428">
       <title>LLD or Mold or LTO</title>
       <bookmark href="https://vfoley.xyz/rust-compile-speed-tips/" id="1959">
-        <title>How to alleviate the pain of Rust compile times#__#&lt;&lt;Avoid LTO#red&gt;&gt; &lt;&lt;2018&gt;&gt; </title>
+        <title>How to alleviate the pain of Rust compile times#__#&lt;&lt;Avoid LTO#red&gt;&gt; &lt;&lt;2018&gt;&gt; &lt;&lt;LTO makes the compilation of ppbert 300% longer#red&gt;&gt; &lt;&lt;2% speed gain at run-time#red&gt;&gt; </title>
       </bookmark>
       <bookmark href="https://separator.floccus.org/?id=178976" id="1960">
         <title>-----</title>
