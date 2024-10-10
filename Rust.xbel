@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1958: for Floccus bookmark sync browser extension -->
+<!--- highestId :1960: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Algorithms</title>
@@ -1731,6 +1731,12 @@
     </folder>
     <folder id="1428">
       <title>LLD or Mold or LTO</title>
+      <bookmark href="https://vfoley.xyz/rust-compile-speed-tips/" id="1959">
+        <title>How to alleviate the pain of Rust compile times#__#&lt;&lt;Avoid LTO#red&gt;&gt; &lt;&lt;2018&gt;&gt; </title>
+      </bookmark>
+      <bookmark href="https://separator.floccus.org/?id=178976" id="1960">
+        <title>-----</title>
+      </bookmark>
       <bookmark href="https://bevyengine.org/learn/book/getting-started/setup/" id="1555">
         <title>Bevy - Setup#__#&lt;&lt;sudo pacman -S lld#green&gt;&gt; &lt;&lt;Then copy this file to YOUR_WORKSPACE/.cargo/config.toml#green&gt;&gt; &lt;&lt;mold is up to 5× (five times!) faster#green&gt;&gt; &lt;&lt;than LLD#red&gt;&gt; &lt;&lt;linker = &quot;clang&quot;#green&gt;&gt; &lt;&lt;rustflags = [&quot;-C&quot;, &quot;link-arg=-fuse-ld=/usr/bin/mold&quot;]#green&gt;&gt; &lt;&lt;&quot;precompile&quot; generic#green&gt;&gt; &lt;&lt;only available on nightly#red&gt;&gt; &lt;&lt;and LLD#blue&gt;&gt;</title>
       </bookmark>
@@ -2416,7 +2422,7 @@ https://docs.microsoft.com/en-us/windows/terminal/cascadia-code</title>
         <title>three-rs-talk/presentation at main · ozbe/three-rs-talk</title>
       </bookmark>
       <bookmark href="https://jondot.medium.com/my-key-learnings-after-30-000-loc-in-rust-a553e6403c19" id="1922">
-        <title>10 Key Learnings in Rust after 30,000 Lines of Code | by Dotan Nahum | Medium#__#&lt;&lt;faster build#green&gt;&gt; &lt;&lt;it will go smoothly#green&gt;&gt; &lt;&lt;massively smooth#green&gt;&gt; &lt;&lt;from a painful 30 seconds#red&gt;&gt; &lt;&lt;to 9 seconds for a build#green&gt;&gt; &lt;&lt;hattering the main project crate into four#green&gt;&gt; &lt;&lt;most of that 9 seconds now is linking#red&gt;&gt; &lt;&lt;identify your:&gt;&gt; &lt;&lt;Core: data, types, abstractions#green&gt;&gt; &lt;&lt;Logic:#green&gt;&gt; &lt;&lt;Peripherals: networking, HTTP, reporting#green&gt;&gt; &lt;&lt;App: entry point, uses and glues everything#green&gt;&gt; &lt;&lt;to enjoy speed&gt;&gt; &lt;&lt;open your editor rooted at one of the sub crates#green&gt;&gt; &lt;&lt;compiler tips#green&gt;&gt; &lt;&lt;LLD#green&gt;&gt; </title>
+        <title>10 Key Learnings in Rust after 30,000 Lines of Code | by Dotan Nahum | Medium#__#&lt;&lt;faster build#green&gt;&gt; &lt;&lt;it will go smoothly#green&gt;&gt; &lt;&lt;massively smooth#green&gt;&gt; &lt;&lt;from a painful 30 seconds#red&gt;&gt; &lt;&lt;to 9 seconds for a build#green&gt;&gt; &lt;&lt;hattering the main project crate into four#green&gt;&gt; &lt;&lt;most of that 9 seconds now is linking#red&gt;&gt; &lt;&lt;identify your:&gt;&gt; &lt;&lt;Core: data, types, abstractions#green&gt;&gt; &lt;&lt;Logic:#green&gt;&gt; &lt;&lt;Peripherals: networking, HTTP, reporting#green&gt;&gt; &lt;&lt;App: entry point, uses and glues everything#green&gt;&gt; &lt;&lt;to enjoy speed&gt;&gt; &lt;&lt;open your editor rooted at one of the sub crates#green&gt;&gt; &lt;&lt;compiler tips#green&gt;&gt; &lt;&lt;LLD#green&gt;&gt;</title>
       </bookmark>
       <bookmark href="https://github.com/hashedone/10-rust-mistakes" id="1923">
         <title>GitHub - hashedone/10-rust-mistakes: Slides for Rust Wrocław webinar</title>
