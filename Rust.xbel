@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1961: for Floccus bookmark sync browser extension -->
+<!--- highestId :1962: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Algorithms</title>
@@ -1607,6 +1607,9 @@
       </bookmark>
       <bookmark href="https://github.com/rust-lang/rustfmt" id="644">
         <title>rust-lang/rustfmt: Format Rust code#__#&lt;&lt;current status: some macro declarations and uses are formatted&gt;&gt; &lt;&lt;non-ascii#red&gt;&gt; &lt;&lt;#[rustfmt::skip]&gt;&gt; &lt;&lt;#![rustfmt::skip::attributes(custom_attribute)]&gt;&gt; &lt;&lt;#[custom_attribute(formatting , here , should , be , Skipped)]#green&gt;&gt; &lt;&lt;#[rustfmt::skip::macros(target_macro_name)]&gt;&gt;</title>
+      </bookmark>
+      <bookmark href="https://github.com/rust-lang/rustfmt/blob/master/Configurations.md" id="1962">
+        <title>rustfmt/Configurations.md at master · rust-lang/rustfmt</title>
       </bookmark>
     </folder>
     <folder id="220">
