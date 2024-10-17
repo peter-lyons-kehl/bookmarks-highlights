@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1962: for Floccus bookmark sync browser extension -->
+<!--- highestId :1964: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Algorithms</title>
@@ -3861,6 +3861,12 @@ https://docs.microsoft.com/en-us/windows/terminal/cascadia-code</title>
     <title>Concurrent</title>
     <folder id="306">
       <title>Async</title>
+      <bookmark href="https://rust-lang.github.io/async-book/01_getting_started/02_why_async.html" id="1963">
+        <title>Why Async? - Asynchronous Programming in Rust</title>
+      </bookmark>
+      <bookmark href="https://separator.floccus.org/?id=729097" id="1964">
+        <title>-----</title>
+      </bookmark>
       <bookmark href="https://github.com/hyperium/tonic" id="819">
         <title>hyperium/tonic: A native gRPC client &amp; server implementation with async/await support.</title>
       </bookmark>
@@ -3891,7 +3897,7 @@ https://docs.microsoft.com/en-us/windows/terminal/cascadia-code</title>
       <bookmark href="https://doc.rust-lang.org/nightly/core/future/trait.Future.html" id="828">
         <title>Future in core::future - Rust#__#&lt;&lt;poll(self: Pin&lt;&amp;mut Self&gt;#green&gt;&gt; &lt;&lt;context passed to the poll method can provide a Waker#green&gt;&gt; &lt;&lt;generally won’t call poll#red&gt;&gt; &lt;&lt;but instead .await#green&gt;&gt; &lt;&lt;Once a future has finished, clients should not poll it again#red&gt;&gt; &lt;&lt;on multiple calls to poll#red&gt;&gt; &lt;&lt;only the Waker from the Context passed to the most recent call should be scheduled to receive a wakeup#green&gt;&gt; &lt;&lt;poll function is not called repeatedly in a tight loo#red&gt;&gt; &lt;&lt;only be called when the future indicates that it is ready to make progress (by calling wake())#green&gt;&gt; &lt;&lt;poll(2) or select(2) syscalls on Unix#red&gt;&gt; &lt;&lt;futures typically do not suffer the same problems#red&gt;&gt; &lt;&lt;more like epoll(4)#green&gt;&gt; &lt;&lt;poll should strive to return quickly#green&gt;&gt; &lt;&lt;not block@1#red&gt;&gt; &lt;&lt;If it is known ahead of time that a call to poll may end up taking awhile#red&gt;&gt; &lt;&lt;work should be offloaded to a thread pool#green&gt;&gt;</title>
       </bookmark>
-      <bookmark href="https://separator.floccus.org/?id=729097" id="1292">
+      <bookmark href="https://separator.floccus.org/?id=191775" id="1292">
         <title>-----</title>
       </bookmark>
       <bookmark href="https://github.com/Kobzol/async-iterator-examples/blob/main/README.md" id="1293">
