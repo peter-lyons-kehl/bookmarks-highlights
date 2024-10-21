@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1966: for Floccus bookmark sync browser extension -->
+<!--- highestId :1967: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Algorithms</title>
@@ -1879,6 +1879,18 @@
         <title>RFC process for formatting style and Rustfmt defaults by nrc · Pull Request #1607 · rust-lang/rfcs#__#&lt;&lt;Especially repetitive test code does often not benefit from formatting#red&gt;&gt;</title>
       </bookmark>
     </folder>
+    <folder id="1435">
+      <title>Fleet (JetBrains)</title>
+      <bookmark href="https://www.jetbrains.com/help/fleet/settings.html" id="1597">
+        <title>Settings | JetBrains Fleet Documentation</title>
+      </bookmark>
+      <bookmark href="https://www.jetbrains.com/help/fleet/debug-rust-code.html" id="1598">
+        <title>Debug Rust code | JetBrains Fleet Documentation</title>
+      </bookmark>
+      <bookmark href="https://www.jetbrains.com/help/fleet/getting-started-with-rust.html" id="1599">
+        <title>Getting started with Rust | JetBrains Fleet Documentation</title>
+      </bookmark>
+    </folder>
     <folder id="1431">
       <title>IntelliJ</title>
       <bookmark href="https://blog.jetbrains.com/clion/2020/05/whats-new-in-intellij-rust/" id="1577">
@@ -2016,17 +2028,8 @@ https://docs.microsoft.com/en-us/windows/terminal/cascadia-code</title>
       <bookmark href="https://github.com/pulsar-edit" id="1596">
         <title>Pulsar Edit</title>
       </bookmark>
-    </folder>
-    <folder id="1435">
-      <title>Fleet (JetBrains)</title>
-      <bookmark href="https://www.jetbrains.com/help/fleet/settings.html" id="1597">
-        <title>Settings | JetBrains Fleet Documentation</title>
-      </bookmark>
-      <bookmark href="https://www.jetbrains.com/help/fleet/debug-rust-code.html" id="1598">
-        <title>Debug Rust code | JetBrains Fleet Documentation</title>
-      </bookmark>
-      <bookmark href="https://www.jetbrains.com/help/fleet/getting-started-with-rust.html" id="1599">
-        <title>Getting started with Rust | JetBrains Fleet Documentation</title>
+      <bookmark href="https://separator.floccus.org/?id=906080" id="1967">
+        <title>-----</title>
       </bookmark>
     </folder>
   </folder>
