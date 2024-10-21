@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1984: for Floccus bookmark sync browser extension -->
+<!--- highestId :1985: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Algorithms</title>
@@ -1374,9 +1374,6 @@
       <bookmark href="https://github.com/rust-lang/rust/pull/126050" id="1961">
         <title>Use #[track_caller] for no_threads.rs for Mutex by colelawrence · Pull Request #126050 · rust-lang/rust</title>
       </bookmark>
-      <bookmark href="https://www.reddit.com/r/rust/comments/iat25g/cranelift_can_now_compile_rustc_giving_nearly_7x/" id="1984">
-        <title>Cranelift can now compile rustc- giving nearly 7x faster compilations than LLVM! : r/rust</title>
-      </bookmark>
     </folder>
     <folder id="214">
       <title>panic!</title>
@@ -1721,6 +1718,9 @@
       </bookmark>
       <bookmark href="https://github.com/bytecodealliance/wasmtime/tree/main/cranelift" id="1552">
         <title>wasmtime/cranelift at main · bytecodealliance/wasmtime · GitHub#__#&lt;&lt;compilation speed&gt;&gt; &lt;&lt;order of magnitude faster than WAVM (LLVM)#green&gt;&gt; &lt;&lt;generated code is ~2% slower than that of V8 (TurboFan), and ~14% slower than WAVM (LLVM)#red&gt;&gt; &lt;&lt;basic mitigations for Spectre&gt;&gt; &lt;&lt;production-ready#green&gt;&gt; &lt;&lt;three backends: x86-64&gt;&gt; &lt;&lt;aarch64 (aka ARM64)&gt;&gt;</title>
+      </bookmark>
+      <bookmark href="https://www.reddit.com/r/rust/comments/iat25g/cranelift_can_now_compile_rustc_giving_nearly_7x/" id="1985">
+        <title>Cranelift can now compile rustc- giving nearly 7x faster compilations than LLVM! : r/rust#__#&lt;&lt;ago#red&gt;&gt; </title>
       </bookmark>
     </folder>
     <folder id="1427">
