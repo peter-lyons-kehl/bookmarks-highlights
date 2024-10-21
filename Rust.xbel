@@ -1747,7 +1747,7 @@
         <title>-----</title>
       </bookmark>
       <bookmark href="https://www.reddit.com/r/rust/comments/l64gdv/how_to_optimise_compilation_times_with_rust/" id="1983">
-        <title>How to optimise compilation times with Rust : r/rust#__#~2020&lt;&lt;ago#red&gt;&gt; </title>
+        <title>How to optimise compilation times with Rust : r/rust#__#~2020&lt;&lt;ago#red&gt;&gt; &lt;&lt;llvm linker&gt;&gt; &lt;&lt;export RUSTFLAGS=&quot;-C link-arg=-fuse-ld=lld&quot;#green&gt;&gt; </title>
       </bookmark>
       <bookmark href="https://separator.floccus.org/?id=877640" id="1960">
         <title>-----</title>
