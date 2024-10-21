@@ -5008,7 +5008,7 @@ https://docs.microsoft.com/en-us/windows/terminal/cascadia-code</title>
         <title>rust - How can I find a subsequence in a &amp;[u8] slice? - Stack Overflow</title>
       </bookmark>
       <bookmark href="https://stackoverflow.com/questions/62186871/how-to-correctly-use-peek-in-rust" id="1989">
-        <title>iterator - How to correctly use `peek()` in Rust? - Stack Overflow#__#&lt;&lt;Usually, the best way to write this sort of code is to not use Peekable at all#red&gt;&gt; </title>
+        <title>iterator - How to correctly use `peek()` in Rust? - Stack Overflow#__#&lt;&lt;Usually, the best way to write this sort of code is to not use Peekable at all#red&gt;&gt; &lt;&lt;explicitly call next in a loop#green&gt;&gt; &lt;&lt;Generally, a better&gt;&gt; &lt;&lt;slice::windows#green&gt;&gt; &lt;&lt;tuple_windows from itertools#green&gt;&gt; </title>
       </bookmark>
       <bookmark href="https://separator.floccus.org/?id=4954" id="1990">
         <title>-----</title>
