@@ -1882,7 +1882,7 @@
         <title>Debugging / Profiling build times? : r/rust#__#&lt;&lt;export RUSTFLAGS=&quot;-Z self-profile&quot;&gt;&gt; &lt;&lt;export RUSTFLAGS=&quot;-Z time-passes&quot;&gt;&gt; &lt;&lt;Turn off incremental compilation export CARGO_INCREMENTAL=0 would also be interesting if it isn&apos;t helpful.&gt;&gt;</title>
       </bookmark>
       <bookmark href="https://www.reddit.com/r/rust/comments/akwm3z/compilation_time_profiling_tool/" id="1981">
-        <title>Compilation time profiling tool? : r/rust#__#&lt;&lt;RUSTFLAGS=-Zself-profile cargo build#green&gt;&gt; </title>
+        <title>Compilation time profiling tool? : r/rust#__#&lt;&lt;RUSTFLAGS=-Zself-profile cargo build#green&gt;&gt; &lt;&lt;RUSTFLAGS=-Ztime-passes#green&gt;&gt; </title>
       </bookmark>
       <bookmark href="https://separator.floccus.org/?id=183924" id="1977">
         <title>-----</title>
