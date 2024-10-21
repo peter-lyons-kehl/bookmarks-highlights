@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1981: for Floccus bookmark sync browser extension -->
+<!--- highestId :1983: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Algorithms</title>
@@ -1743,7 +1743,13 @@
       <bookmark href="https://vfoley.xyz/rust-compile-speed-tips/" id="1959">
         <title>How to alleviate the pain of Rust compile times#__#&lt;&lt;Avoid LTO#red&gt;&gt; &lt;&lt;2018&gt;&gt; &lt;&lt;LTO makes the compilation of ppbert 300% longer#red&gt;&gt; &lt;&lt;2% speed gain at run-time#red&gt;&gt; rg = recursive grep&lt;&lt;rg default-features Cargo.toml &amp;&amp; cargo tree -p clap#green&gt;&gt;</title>
       </bookmark>
-      <bookmark href="https://separator.floccus.org/?id=178976" id="1960">
+      <bookmark href="https://separator.floccus.org/?id=178976" id="1982">
+        <title>-----</title>
+      </bookmark>
+      <bookmark href="https://www.reddit.com/r/rust/comments/l64gdv/how_to_optimise_compilation_times_with_rust/" id="1983">
+        <title>How to optimise compilation times with Rust : r/rust#__#~2020&lt;&lt;ago#red&gt;&gt; </title>
+      </bookmark>
+      <bookmark href="https://separator.floccus.org/?id=877640" id="1960">
         <title>-----</title>
       </bookmark>
       <bookmark href="https://bevyengine.org/learn/book/getting-started/setup/" id="1555">
@@ -1882,7 +1888,7 @@
         <title>Debugging / Profiling build times? : r/rust#__#&lt;&lt;export RUSTFLAGS=&quot;-Z self-profile&quot;&gt;&gt; &lt;&lt;export RUSTFLAGS=&quot;-Z time-passes&quot;&gt;&gt; &lt;&lt;Turn off incremental compilation export CARGO_INCREMENTAL=0 would also be interesting if it isn&apos;t helpful.&gt;&gt;</title>
       </bookmark>
       <bookmark href="https://www.reddit.com/r/rust/comments/akwm3z/compilation_time_profiling_tool/" id="1981">
-        <title>Compilation time profiling tool? : r/rust#__#&lt;&lt;RUSTFLAGS=-Zself-profile cargo build#green&gt;&gt; &lt;&lt;RUSTFLAGS=-Ztime-passes#green&gt;&gt; </title>
+        <title>Compilation time profiling tool? : r/rust#__#&lt;&lt;RUSTFLAGS=-Zself-profile cargo build#green&gt;&gt; &lt;&lt;RUSTFLAGS=-Ztime-passes#green&gt;&gt;</title>
       </bookmark>
       <bookmark href="https://separator.floccus.org/?id=183924" id="1977">
         <title>-----</title>
