@@ -5005,7 +5005,7 @@ https://docs.microsoft.com/en-us/windows/terminal/cascadia-code</title>
         <title>-----</title>
       </bookmark>
       <bookmark href="https://stackoverflow.com/questions/35901547/how-can-i-find-a-subsequence-in-a-u8-slice" id="1988">
-        <title>rust - How can I find a subsequence in a &amp;[u8] slice? - Stack Overflow#__#&lt;&lt;Regex on bytes?#green&gt;&gt; &lt;&lt;less performant than#red&gt;&gt; &lt;&lt;memmem#green&gt;&gt; &lt;&lt;more powerful#green&gt;&gt; </title>
+        <title>rust - How can I find a subsequence in a &amp;[u8] slice? - Stack Overflow#__#&lt;&lt;Regex on bytes?#green&gt;&gt; &lt;&lt;less performant than#red&gt;&gt; &lt;&lt;memmem#green&gt;&gt; &lt;&lt;more powerful#green&gt;&gt; &lt;&lt;use memmem::{Searcher, TwoWaySearcher};#green&gt;&gt; </title>
       </bookmark>
       <bookmark href="https://separator.floccus.org/?id=4954" id="1990">
         <title>-----</title>
