@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1969: for Floccus bookmark sync browser extension -->
+<!--- highestId :1970: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Algorithms</title>
@@ -1868,6 +1868,9 @@
       </bookmark>
       <bookmark href="https://doc.rust-lang.org/nightly/cargo/reference/unstable.html" id="1870">
         <title>Unstable Features - The Cargo Book#__#&lt;&lt;As of rust-lang/rust#64158&gt;&gt; &lt;&lt;test crate supports -C panic=abort&gt;&gt; &lt;&lt;a test-per-process&gt;&gt; &lt;&lt;can help avoid compiling crate graphs multiple times#red&gt;&gt;</title>
+      </bookmark>
+      <bookmark href="https://raphlinus.github.io/rust/2019/08/21/rust-bloat.html" id="1970">
+        <title>Thoughts on Rust bloat | Raph Levien’s blog</title>
       </bookmark>
     </folder>
   </folder>
