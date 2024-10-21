@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1979: for Floccus bookmark sync browser extension -->
+<!--- highestId :1980: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Algorithms</title>
@@ -1895,6 +1895,9 @@
       </bookmark>
       <bookmark href="https://github.com/not-fl3/nanoserde-bench/blob/master/README.md" id="1975">
         <title>nanoserde-bench/README.md at master · not-fl3/nanoserde-bench#__#&lt;&lt;Bench compilation time&gt;&gt;</title>
+      </bookmark>
+      <bookmark href="https://www.reddit.com/r/rust/comments/cg3p5m/cargobloat_08_debloated_5x_smaller_10x_faster/" id="1980">
+        <title>cargo-bloat 0.8 - debloated (5x smaller, 10x faster build time) : r/rust#__#&lt;&lt;debloated@1#green&gt;&gt; </title>
       </bookmark>
     </folder>
   </folder>
