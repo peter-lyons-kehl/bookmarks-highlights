@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1980: for Floccus bookmark sync browser extension -->
+<!--- highestId :1981: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Algorithms</title>
@@ -1881,6 +1881,9 @@
       <bookmark href="https://www.reddit.com/r/rust/comments/aqq1qs/debugging_profiling_build_times/" id="1972">
         <title>Debugging / Profiling build times? : r/rust#__#&lt;&lt;export RUSTFLAGS=&quot;-Z self-profile&quot;&gt;&gt; &lt;&lt;export RUSTFLAGS=&quot;-Z time-passes&quot;&gt;&gt; &lt;&lt;Turn off incremental compilation export CARGO_INCREMENTAL=0 would also be interesting if it isn&apos;t helpful.&gt;&gt;</title>
       </bookmark>
+      <bookmark href="https://www.reddit.com/r/rust/comments/akwm3z/compilation_time_profiling_tool/" id="1981">
+        <title>Compilation time profiling tool? : r/rust#__#&lt;&lt;RUSTFLAGS=-Zself-profile cargo build#green&gt;&gt; </title>
+      </bookmark>
       <bookmark href="https://separator.floccus.org/?id=183924" id="1977">
         <title>-----</title>
       </bookmark>
@@ -1897,7 +1900,7 @@
         <title>nanoserde-bench/README.md at master · not-fl3/nanoserde-bench#__#&lt;&lt;Bench compilation time&gt;&gt;</title>
       </bookmark>
       <bookmark href="https://www.reddit.com/r/rust/comments/cg3p5m/cargobloat_08_debloated_5x_smaller_10x_faster/" id="1980">
-        <title>cargo-bloat 0.8 - debloated (5x smaller, 10x faster build time) : r/rust#__#&lt;&lt;debloated@1#green&gt;&gt; </title>
+        <title>cargo-bloat 0.8 - debloated (5x smaller, 10x faster build time) : r/rust#__#&lt;&lt;debloated@1#green&gt;&gt;</title>
       </bookmark>
     </folder>
   </folder>
