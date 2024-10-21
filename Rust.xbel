@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1971: for Floccus bookmark sync browser extension -->
+<!--- highestId :1972: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Algorithms</title>
@@ -1870,10 +1870,13 @@
         <title>Unstable Features - The Cargo Book#__#&lt;&lt;As of rust-lang/rust#64158&gt;&gt; &lt;&lt;test crate supports -C panic=abort&gt;&gt; &lt;&lt;a test-per-process&gt;&gt; &lt;&lt;can help avoid compiling crate graphs multiple times#red&gt;&gt;</title>
       </bookmark>
       <bookmark href="https://github.com/actions/cache/blob/main/examples.md" id="1971">
-        <title>cache/examples.md at main · actions/cache#__#&lt;&lt;Rust - Cargo&gt;&gt; </title>
+        <title>cache/examples.md at main · actions/cache#__#&lt;&lt;Rust - Cargo&gt;&gt;</title>
       </bookmark>
       <bookmark href="https://raphlinus.github.io/rust/2019/08/21/rust-bloat.html" id="1970">
         <title>Thoughts on Rust bloat | Raph Levien’s blog#__#&lt;&lt;unicase dep adds 50k#red&gt;&gt; &lt;&lt;temptation to cut this corner,#red&gt;&gt; &lt;&lt;not spec-compliant#red&gt;&gt; &lt;&lt;Unicode and internationalization are a particularly contentious#red&gt;&gt; &lt;&lt;Foundational crates should be lean&gt;&gt; &lt;&lt;bitflags, lazy_static, cfg-if, etc#green&gt;&gt; &lt;&lt;rental, failure#red&gt;&gt; &lt;&lt;gfx-rs&gt;&gt; &lt;&lt;kvark&gt;&gt; &lt;&lt;rust-objc macros#red&gt;&gt; &lt;&lt;commonly-used crates#red&gt;&gt; &lt;&lt;you get different versions anyway#red&gt;&gt; &lt;&lt;serde#red&gt;&gt; &lt;&lt;serializes everything into JSON#red&gt;&gt; &lt;&lt;monomorphizes#red&gt;&gt; &lt;&lt;miniserde in particular yields smaller binaries and compile times&gt;&gt; &lt;&lt;dynamic dispatch#green&gt;&gt; &lt;&lt;polymorphism#red&gt;&gt; &lt;&lt;no real benefit to allowing floating point types other than f64#red&gt;&gt; &lt;&lt;async#red&gt;&gt; &lt;&lt;actix#red&gt;&gt; &lt;&lt;tokio#red&gt;&gt; &lt;&lt;lots of subcrates often makes life harder#red&gt;&gt; &lt;&lt;coordination#red&gt;&gt; &lt;&lt;making sure versions are compatible#red&gt;&gt; &lt;&lt;phf, an implementation of perfect hashing#red&gt;&gt; &lt;&lt;~13s of compile time when using the macro#red&gt;&gt; &lt;&lt;phf-codegen to generate Rust source#green&gt;&gt; &lt;&lt;check that into your repos#green&gt;&gt; &lt;&lt;compile times in unicode-normalization#red&gt;&gt; &lt;&lt;build the hash tables using a custom tool#green&gt;&gt; &lt;&lt;check those into the repo#green&gt;&gt; &lt;&lt;2019#red&gt;&gt; &lt;&lt;tools like cargo-bloat#green&gt;&gt; &lt;&lt;track of regressions#green&gt;&gt; &lt;&lt;analyze binary sizes more systematically#green&gt;&gt; &lt;&lt;Once you accept bloat#red&gt;&gt; &lt;&lt;hard to claw it back#red&gt;&gt; &lt;&lt;If your project has multi-minute compiles#red&gt;&gt; &lt;&lt;won’t even notice a 10s regression#red&gt;&gt; &lt;&lt;pile up#red&gt;&gt; &lt;&lt;harder and harder to motivate the work#red&gt;&gt; &lt;&lt;because each second gained in compile time becomes such a small fraction of the total#blue&gt;&gt;</title>
+      </bookmark>
+      <bookmark href="https://www.reddit.com/r/rust/comments/aqq1qs/debugging_profiling_build_times/" id="1972">
+        <title>Debugging / Profiling build times? : r/rust</title>
       </bookmark>
     </folder>
   </folder>
