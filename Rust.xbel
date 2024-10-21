@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1986: for Floccus bookmark sync browser extension -->
+<!--- highestId :1990: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Algorithms</title>
@@ -1723,7 +1723,7 @@
         <title>wasmtime/cranelift at main · bytecodealliance/wasmtime · GitHub#__#&lt;&lt;compilation speed&gt;&gt; &lt;&lt;order of magnitude faster than WAVM (LLVM)#green&gt;&gt; &lt;&lt;generated code is ~2% slower than that of V8 (TurboFan), and ~14% slower than WAVM (LLVM)#red&gt;&gt; &lt;&lt;basic mitigations for Spectre&gt;&gt; &lt;&lt;production-ready#green&gt;&gt; &lt;&lt;three backends: x86-64&gt;&gt; &lt;&lt;aarch64 (aka ARM64)&gt;&gt;</title>
       </bookmark>
       <bookmark href="https://www.reddit.com/r/rust/comments/iat25g/cranelift_can_now_compile_rustc_giving_nearly_7x/" id="1985">
-        <title>Cranelift can now compile rustc- giving nearly 7x faster compilations than LLVM! : r/rust#__#~2020&lt;&lt;ago#red&gt;&gt; </title>
+        <title>Cranelift can now compile rustc- giving nearly 7x faster compilations than LLVM! : r/rust#__#~2020&lt;&lt;ago#red&gt;&gt;</title>
       </bookmark>
     </folder>
     <folder id="1427">
@@ -5000,6 +5000,18 @@ https://docs.microsoft.com/en-us/windows/terminal/cascadia-code</title>
       </bookmark>
       <bookmark href="https://docs.rs/itertools/latest/itertools/structs/struct.Combinations.html" id="947">
         <title>Combinations in itertools::structs - Rust#__#&lt;&lt;impl&lt;I&gt; RefUnwindSafe&gt;&gt; &lt;&lt;I: RefUnwindSafe&gt;&gt; &lt;&lt;&lt;I as Iterator&gt;::Item: RefUnwindSafe&gt;&gt; &lt;&lt;I: UnwindSafe&gt;&gt; &lt;&lt;&lt;I as Iterator&gt;::Item: UnwindSafe&gt;&gt;</title>
+      </bookmark>
+      <bookmark href="https://separator.floccus.org/?id=906080" id="1987">
+        <title>-----</title>
+      </bookmark>
+      <bookmark href="https://stackoverflow.com/questions/35901547/how-can-i-find-a-subsequence-in-a-u8-slice" id="1988">
+        <title>rust - How can I find a subsequence in a &amp;[u8] slice? - Stack Overflow</title>
+      </bookmark>
+      <bookmark href="https://stackoverflow.com/questions/62186871/how-to-correctly-use-peek-in-rust" id="1989">
+        <title>iterator - How to correctly use `peek()` in Rust? - Stack Overflow</title>
+      </bookmark>
+      <bookmark href="https://separator.floccus.org/?id=4954" id="1990">
+        <title>-----</title>
       </bookmark>
     </folder>
   </folder>
