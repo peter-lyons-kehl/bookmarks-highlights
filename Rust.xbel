@@ -1870,7 +1870,7 @@
         <title>Unstable Features - The Cargo Book#__#&lt;&lt;As of rust-lang/rust#64158&gt;&gt; &lt;&lt;test crate supports -C panic=abort&gt;&gt; &lt;&lt;a test-per-process&gt;&gt; &lt;&lt;can help avoid compiling crate graphs multiple times#red&gt;&gt;</title>
       </bookmark>
       <bookmark href="https://raphlinus.github.io/rust/2019/08/21/rust-bloat.html" id="1970">
-        <title>Thoughts on Rust bloat | Raph Levien’s blog#__#&lt;&lt;unicase dep adds 50k#red&gt;&gt; &lt;&lt;temptation to cut this corner,#red&gt;&gt; &lt;&lt;not spec-compliant#red&gt;&gt; &lt;&lt;Unicode and internationalization are a particularly contentious#red&gt;&gt; &lt;&lt;Foundational crates should be lean&gt;&gt; &lt;&lt;bitflags, lazy_static, cfg-if, etc#green&gt;&gt; &lt;&lt;rental, failure#red&gt;&gt; &lt;&lt;gfx-rs&gt;&gt; </title>
+        <title>Thoughts on Rust bloat | Raph Levien’s blog#__#&lt;&lt;unicase dep adds 50k#red&gt;&gt; &lt;&lt;temptation to cut this corner,#red&gt;&gt; &lt;&lt;not spec-compliant#red&gt;&gt; &lt;&lt;Unicode and internationalization are a particularly contentious#red&gt;&gt; &lt;&lt;Foundational crates should be lean&gt;&gt; &lt;&lt;bitflags, lazy_static, cfg-if, etc#green&gt;&gt; &lt;&lt;rental, failure#red&gt;&gt; &lt;&lt;gfx-rs&gt;&gt; &lt;&lt;kvark&gt;&gt; </title>
       </bookmark>
     </folder>
   </folder>
