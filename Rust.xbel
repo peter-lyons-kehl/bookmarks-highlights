@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1964: for Floccus bookmark sync browser extension -->
+<!--- highestId :1965: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Algorithms</title>
@@ -1667,6 +1667,9 @@
       </bookmark>
       <bookmark href="https://doc.rust-lang.org/rustdoc/write-documentation/linking-to-items-by-name.html" id="1931">
         <title>Linking to items by name - The rustdoc book</title>
+      </bookmark>
+      <bookmark href="https://blog.guillaume-gomez.fr/articles/2020-03-12+Guide+on+how+to+write+documentation+for+a+Rust+crate" id="1965">
+        <title>Guide on how to write documentation for a Rust crate</title>
       </bookmark>
     </folder>
     <folder id="221">
@@ -3862,7 +3865,7 @@ https://docs.microsoft.com/en-us/windows/terminal/cascadia-code</title>
     <folder id="306">
       <title>Async</title>
       <bookmark href="https://rust-lang.github.io/async-book/01_getting_started/02_why_async.html" id="1963">
-        <title>Why Async? - Asynchronous Programming in Rust#__#&lt;&lt;Coroutines#red&gt;&gt; &lt;&lt;Futures are inert&gt;&gt; &lt;&lt;make progress only when polled#red&gt;&gt; &lt;&lt;Dropping a future stops it from making further progress#red&gt;&gt; &lt;&lt;can use async without heap allocations&gt;&gt; &lt;&lt;dynamic dispatch&gt;&gt; &lt;&lt;Both single- and multithreaded runtimes are available&gt;&gt; &lt;&lt;OS threads are suitable for a small number of tasks#red&gt;&gt; &lt;&lt;Async provides significantly reduced CPU and memory#green&gt;&gt; &lt;&lt;orders of magnitude more tasks#green&gt;&gt; &lt;&lt;than OS threads#red&gt;&gt; &lt;&lt;larger binary#red&gt;&gt; &lt;&lt;state machines#red&gt;&gt; &lt;&lt;each executable bundles an async runtime#red&gt;&gt; &lt;&lt;asynchronous programming is not better#red&gt;&gt; &lt;&lt;but different#green&gt;&gt; &lt;&lt;downloading a web page is a small task#blue&gt;&gt; &lt;&lt;reating a thread for such a small amount of work is quite wasteful#red&gt;&gt; &lt;&lt;join!(&gt;&gt; </title>
+        <title>Why Async? - Asynchronous Programming in Rust#__#&lt;&lt;Coroutines#red&gt;&gt; &lt;&lt;Futures are inert&gt;&gt; &lt;&lt;make progress only when polled#red&gt;&gt; &lt;&lt;Dropping a future stops it from making further progress#red&gt;&gt; &lt;&lt;can use async without heap allocations&gt;&gt; &lt;&lt;dynamic dispatch&gt;&gt; &lt;&lt;Both single- and multithreaded runtimes are available&gt;&gt; &lt;&lt;OS threads are suitable for a small number of tasks#red&gt;&gt; &lt;&lt;Async provides significantly reduced CPU and memory#green&gt;&gt; &lt;&lt;orders of magnitude more tasks#green&gt;&gt; &lt;&lt;than OS threads#red&gt;&gt; &lt;&lt;larger binary#red&gt;&gt; &lt;&lt;state machines#red&gt;&gt; &lt;&lt;each executable bundles an async runtime#red&gt;&gt; &lt;&lt;asynchronous programming is not better#red&gt;&gt; &lt;&lt;but different#green&gt;&gt; &lt;&lt;downloading a web page is a small task#blue&gt;&gt; &lt;&lt;reating a thread for such a small amount of work is quite wasteful#red&gt;&gt; &lt;&lt;join!(&gt;&gt;</title>
       </bookmark>
       <bookmark href="https://separator.floccus.org/?id=729097" id="1964">
         <title>-----</title>
