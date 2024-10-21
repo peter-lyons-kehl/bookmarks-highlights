@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1983: for Floccus bookmark sync browser extension -->
+<!--- highestId :1984: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Algorithms</title>
@@ -1374,6 +1374,9 @@
       <bookmark href="https://github.com/rust-lang/rust/pull/126050" id="1961">
         <title>Use #[track_caller] for no_threads.rs for Mutex by colelawrence · Pull Request #126050 · rust-lang/rust</title>
       </bookmark>
+      <bookmark href="https://www.reddit.com/r/rust/comments/iat25g/cranelift_can_now_compile_rustc_giving_nearly_7x/" id="1984">
+        <title>Cranelift can now compile rustc- giving nearly 7x faster compilations than LLVM! : r/rust</title>
+      </bookmark>
     </folder>
     <folder id="214">
       <title>panic!</title>
@@ -1747,7 +1750,7 @@
         <title>-----</title>
       </bookmark>
       <bookmark href="https://www.reddit.com/r/rust/comments/l64gdv/how_to_optimise_compilation_times_with_rust/" id="1983">
-        <title>How to optimise compilation times with Rust : r/rust#__#~2020&lt;&lt;ago#red&gt;&gt; &lt;&lt;llvm linker&gt;&gt; &lt;&lt;export RUSTFLAGS=&quot;-C link-arg=-fuse-ld=lld&quot;#green&gt;&gt; </title>
+        <title>How to optimise compilation times with Rust : r/rust#__#~2020&lt;&lt;ago#red&gt;&gt; &lt;&lt;llvm linker&gt;&gt; &lt;&lt;export RUSTFLAGS=&quot;-C link-arg=-fuse-ld=lld&quot;#green&gt;&gt;</title>
       </bookmark>
       <bookmark href="https://separator.floccus.org/?id=877640" id="1960">
         <title>-----</title>
