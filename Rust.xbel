@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1965: for Floccus bookmark sync browser extension -->
+<!--- highestId :1966: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Algorithms</title>
@@ -2441,6 +2441,9 @@ https://docs.microsoft.com/en-us/windows/terminal/cascadia-code</title>
       </bookmark>
       <bookmark href="https://github.com/rust-dev-tools/" id="1925">
         <title>rust-dev-tools</title>
+      </bookmark>
+      <bookmark href="https://github.com/vandadnp/rust-tips-and-tricks" id="1966">
+        <title>vandadnp/rust-tips-and-tricks: A Collection of Rust Tips and Tricks</title>
       </bookmark>
     </folder>
   </folder>
