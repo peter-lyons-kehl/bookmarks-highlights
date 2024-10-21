@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1975: for Floccus bookmark sync browser extension -->
+<!--- highestId :1979: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Algorithms</title>
@@ -1869,6 +1869,9 @@
       <bookmark href="https://doc.rust-lang.org/nightly/cargo/reference/unstable.html" id="1870">
         <title>Unstable Features - The Cargo Book#__#&lt;&lt;As of rust-lang/rust#64158&gt;&gt; &lt;&lt;test crate supports -C panic=abort&gt;&gt; &lt;&lt;a test-per-process&gt;&gt; &lt;&lt;can help avoid compiling crate graphs multiple times#red&gt;&gt;</title>
       </bookmark>
+      <bookmark href="https://separator.floccus.org/?id=883854" id="1976">
+        <title>-----</title>
+      </bookmark>
       <bookmark href="https://github.com/actions/cache/blob/main/examples.md" id="1971">
         <title>cache/examples.md at main · actions/cache#__#&lt;&lt;Rust - Cargo&gt;&gt;</title>
       </bookmark>
@@ -1878,11 +1881,20 @@
       <bookmark href="https://www.reddit.com/r/rust/comments/aqq1qs/debugging_profiling_build_times/" id="1972">
         <title>Debugging / Profiling build times? : r/rust#__#&lt;&lt;export RUSTFLAGS=&quot;-Z self-profile&quot;&gt;&gt; &lt;&lt;export RUSTFLAGS=&quot;-Z time-passes&quot;&gt;&gt; &lt;&lt;Turn off incremental compilation export CARGO_INCREMENTAL=0 would also be interesting if it isn&apos;t helpful.&gt;&gt;</title>
       </bookmark>
+      <bookmark href="https://separator.floccus.org/?id=183924" id="1977">
+        <title>-----</title>
+      </bookmark>
       <bookmark href="https://www.reddit.com/r/rust/comments/j6w5xg/i_wrote_about_a_bunch_of_ways_to_troubleshoot/" id="1973">
         <title>I wrote about a bunch of ways to troubleshoot / optimize your Rust build times : r/rust#__#&lt;&lt;self-profile flag&gt;&gt; &lt;&lt;cargo-llvm-lines#green&gt;&gt; &lt;&lt;like cargo-bloat#blue&gt;&gt; &lt;&lt;but it measures the amount of llvm-ir before it is handed to llvm, so it correlates more closely with build time#green&gt;&gt; &lt;&lt;-Zshare-generics=y#green&gt;&gt;</title>
       </bookmark>
+      <bookmark href="https://jondot.medium.com/8-steps-for-troubleshooting-your-rust-build-times-2ffc965fd13e" id="1978">
+        <title>8 Solutions for Troubleshooting Your Rust Build Times | by Dotan Nahum | Medium</title>
+      </bookmark>
+      <bookmark href="https://separator.floccus.org/?id=945477" id="1979">
+        <title>-----</title>
+      </bookmark>
       <bookmark href="https://github.com/not-fl3/nanoserde-bench/blob/master/README.md" id="1975">
-        <title>nanoserde-bench/README.md at master · not-fl3/nanoserde-bench#__#&lt;&lt;Bench compilation time&gt;&gt; </title>
+        <title>nanoserde-bench/README.md at master · not-fl3/nanoserde-bench#__#&lt;&lt;Bench compilation time&gt;&gt;</title>
       </bookmark>
     </folder>
   </folder>
