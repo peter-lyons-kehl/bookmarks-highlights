@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1991: for Floccus bookmark sync browser extension -->
+<!--- highestId :1992: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Algorithms</title>
@@ -4080,6 +4080,9 @@ https://docs.microsoft.com/en-us/windows/terminal/cascadia-code</title>
     <title>Low Level</title>
     <folder id="326">
       <title>Embedded</title>
+      <bookmark href="https://docs.rust-embedded.org/discovery/" id="1992">
+        <title>Choose Your Discovery</title>
+      </bookmark>
       <bookmark href="https://docs.rust-embedded.org/embedonomicon/smallest-no-std.html" id="836">
         <title>The smallest #![no_std] program - The Embedonomicon#__#&lt;&lt;std does more than just providing a way to access OS abstractions#red&gt;&gt; &lt;&lt;setting up stack overflow protection#green&gt;&gt; &lt;&lt;processing command line arguments#green&gt;&gt; &lt;&lt;spawning the main thread before a program&apos;s main function is invoked#green&gt;&gt; &lt;&lt;#![no_std] application can be the first and / or the only code that runs on a system#red&gt;&gt; &lt;&lt;#![no_main]#green&gt;&gt; &lt;&lt;#![no_std]@8#green&gt;&gt; &lt;&lt;#[panic_handler]#green&gt;&gt; &lt;&lt;fn panic(_panic: &amp;PanicInfo&lt;&apos;_&gt;) -&gt; ! {#green&gt;&gt; &lt;&lt;will produce an empty binary&gt;&gt; &lt;&lt;# equivalent to `size target/thumbv7m-none-eabi/debug/app`#green&gt;&gt; &lt;&lt;cargo size --target thumbv7m-none-eabi --bin app#green&gt;&gt; &lt;&lt;Before linking the crate does contain the panicking symbol.#green&gt;&gt; &lt;&lt;cargo rustc --target thumbv7m-none-eabi -- --emit=obj#green&gt;&gt; &lt;&lt;cargo nm -- target/thumbv7m-none-eabi/debug/deps/app-*.o | grep &apos;[0-9]* [^N] &apos;#green&gt;&gt; &lt;&lt;00000000 T rust_begin_unwind#green&gt;&gt; &lt;&lt;set a default build target#green&gt;&gt; &lt;&lt;to avoid having to pass the --target#red&gt;&gt; &lt;&lt;mkdir .cargo#green&gt;&gt; &lt;&lt;# modify .cargo/config#green&gt;&gt; &lt;&lt;[build]#green&gt;&gt; &lt;&lt;target = &quot;thumbv7m-none-eabi&quot;#green&gt;&gt;</title>
       </bookmark>
