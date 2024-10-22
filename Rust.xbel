@@ -1371,9 +1371,6 @@
       <bookmark href="https://lib.rs/crates/linkme" id="1200">
         <title>Linkme — Cargo library // Lib.rs</title>
       </bookmark>
-      <bookmark href="https://github.com/rust-lang/rust/pull/126050" id="1961">
-        <title>Use #[track_caller] for no_threads.rs for Mutex by colelawrence · Pull Request #126050 · rust-lang/rust</title>
-      </bookmark>
       <bookmark href="https://cheatography.com/linux-china/cheat-sheets/justfile/" id="1991">
         <title>Justfile Cheat Sheet by linux_china - Download free from Cheatography - Cheatography.com: Cheat Sheets For Every Occasion</title>
       </bookmark>
