@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1992: for Floccus bookmark sync browser extension -->
+<!--- highestId :1993: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Algorithms</title>
@@ -1131,6 +1131,9 @@
     </bookmark>
     <bookmark href="https://gist.github.com/vi/6620975b737a1caecf607e88cf6b7fea" id="1932">
       <title>List of crates that improves or experiments with Rust, but may be hard to find#__#&lt;&lt;mostly) crates that are internal to Rust#green&gt;&gt; &lt;&lt;not ones for making Rust deal with &quot;external world&quot;#red&gt;&gt; &lt;&lt;bindings, file formats, protocols#red&gt;&gt; &lt;&lt;not easy to find by conventional means&gt;&gt; &lt;&lt;no algorithm name, format or protocol to search for#red&gt;&gt;</title>
+    </bookmark>
+    <bookmark href="https://www.reddit.com/r/rust/comments/r4rn59/is_there_an_easyautomated_way_of_checking/" id="1993">
+      <title>Is there an easy/automated way of checking incompatibilities between async libs and executors? : r/rust#__#&lt;&lt;cargo tree -d&gt;&gt; </title>
     </bookmark>
   </folder>
   <folder id="43">
