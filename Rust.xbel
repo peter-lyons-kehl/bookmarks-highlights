@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2008: for Floccus bookmark sync browser extension -->
+<!--- highestId :2010: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Algorithms</title>
@@ -1761,7 +1761,7 @@
           <title>PassMark - CPU Comparison</title>
         </bookmark>
         <bookmark href="https://www.cpubenchmark.net/singleThread_value.html" id="2008">
-          <title>PassMark CPU Benchmarks - Single Thread Performance#__#&lt;&lt;CPU Value (Mark/Price)&gt;&gt; </title>
+          <title>PassMark CPU Benchmarks - Single Thread Performance#__#&lt;&lt;CPU Value (Mark/Price)&gt;&gt;</title>
         </bookmark>
         <bookmark href="https://separator.floccus.org/?id=4954" id="2001">
           <title>-----</title>
@@ -1946,6 +1946,12 @@
       </bookmark>
       <bookmark href="https://www.reddit.com/r/rust/comments/cg3p5m/cargobloat_08_debloated_5x_smaller_10x_faster/" id="1980">
         <title>cargo-bloat 0.8 - debloated (5x smaller, 10x faster build time) : r/rust#__#&lt;&lt;debloated@1#green&gt;&gt;</title>
+      </bookmark>
+      <bookmark href="https://separator.floccus.org/?id=514091" id="2009">
+        <title>-----</title>
+      </bookmark>
+      <bookmark href="https://www.reddit.com/r/rust/comments/azupon/compile_times_and_out_of_memory_error/" id="2010">
+        <title>Compile times and out of memory error : r/rust#__#&lt;&lt;hairy type inference#red&gt;&gt; </title>
       </bookmark>
     </folder>
   </folder>
