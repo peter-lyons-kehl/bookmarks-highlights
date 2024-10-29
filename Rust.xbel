@@ -3920,7 +3920,7 @@ https://docs.microsoft.com/en-us/windows/terminal/cascadia-code</title>
       <title>Tracking issue for speeding up rustc via its build configuration · Issue #103595 · rust-lang/rust#__#&lt;&lt;-mtune=icelake#green&gt;&gt;</title>
     </bookmark>
     <bookmark href="https://github.com/japaric/rust-cross/blob/master/README.md" id="1995">
-      <title>rust-cross/README.md at master · japaric/rust-cross#__#&lt;&lt;cross compile from Linux to Mac?@1&gt;&gt; &lt;&lt;You don&apos;t.#red&gt;&gt; &lt;&lt;hard to find a cross C toolchain#red&gt;&gt; &lt;&lt;and cross compiled C libraries#red&gt;&gt; &lt;&lt;except perhaps from Linux to Windows#green&gt;&gt; </title>
+      <title>rust-cross/README.md at master · japaric/rust-cross#__#&lt;&lt;cross compile from Linux to Mac?@1&gt;&gt; &lt;&lt;You don&apos;t.#red&gt;&gt; &lt;&lt;hard to find a cross C toolchain#red&gt;&gt; &lt;&lt;and cross compiled C libraries#red&gt;&gt; &lt;&lt;except perhaps from Linux to Windows#green&gt;&gt; &lt;&lt;targets of the form *-*-linux-gnu*&gt;&gt; &lt;&lt;dynamically linked to glibc and other libraries:#blue&gt;&gt; </title>
     </bookmark>
   </folder>
   <folder id="63">
