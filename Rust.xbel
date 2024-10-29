@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1998: for Floccus bookmark sync browser extension -->
+<!--- highestId :1999: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Algorithms</title>
@@ -1746,7 +1746,7 @@
           <title>Building a fast PC for rust (vs mac mini): How much advantage? : rust#__#&lt;&lt;phoronix benchmarks#green&gt;&gt; &lt;&lt;Ram speed, and count matters for compile benchmarks#green&gt;&gt; &lt;&lt;Look for great random IOPS performance when comparing drives.#green&gt;&gt; &lt;&lt;ryzen 3 sits in AM4 which is dual channel memory#red&gt;&gt; &lt;&lt;threadripper sits in TR4 which is quad channel#green&gt;&gt; &lt;&lt;To utilize all cores you need enough RAM#green&gt;&gt; &lt;&lt;Chroimium compilation, because of ninja spawn 32 compiler instance#red&gt;&gt; &lt;&lt;each requires ~ 2GB of RAM#red&gt;&gt; &lt;&lt;threadripper with 12 cores(24smt) 32 GB of RAM is not enough to compile chromium (peak memory usage was 36GB)#red&gt;&gt; &lt;&lt;overclocking: use AMD’s automatic Precision Overdrive#green&gt;&gt; &lt;&lt;threadripper unless you know what it&apos;s for#red&gt;&gt; &lt;&lt;NUMA (non-uniform memory architecture)#red&gt;&gt; &lt;&lt;many threads and processes#green&gt;&gt; &lt;&lt;one memory space with 12 threads#red&gt;&gt; &lt;&lt;chipset#green&gt;&gt; &lt;&lt;Asus has really high temperatures#red&gt;&gt; &lt;&lt;stay away from other overclocking options#red&gt;&gt; &lt;&lt;Ryzen chips#green&gt;&gt; &lt;&lt;it&apos;s not a NUMA chip#green&gt;&gt; &lt;&lt;multiple crates#green&gt;&gt; &lt;&lt;(typically one per library)#green&gt;&gt; &lt;&lt;cargo can and does invoke rustc in parallel#green&gt;&gt; &lt;&lt;All Ryzen chips have non-uniform cache#red&gt;&gt; &lt;&lt;rustc don&apos;t communicate over shared state that often#green&gt;&gt; &lt;&lt;stay away from overclocking#red&gt;&gt;</title>
         </bookmark>
         <bookmark href="https://www.reddit.com/r/rust/comments/ezcwwj/could_custom_hardware_help_with_rustc_compile_time/" id="1998">
-          <title>Could custom hardware help with rustc compile time? : r/rust#__#&lt;&lt;heavily branched code#red&gt;&gt; &lt;&lt;CPU pipeline is underused#red&gt;&gt; &lt;&lt;CPU multithreading#green&gt;&gt; &lt;&lt;CPUs with 2,4 or even 8-way SMT#green&gt;&gt; &lt;&lt;help to reach better throughput per core#blue&gt;&gt; &lt;&lt;commandline_be&gt;&gt; &lt;&lt;SSA in rust can greatly benefit from a boost in graph processing#blue&gt;&gt; &lt;&lt;consider having an opencl accelerated rustc developed#green&gt;&gt; </title>
+          <title>Could custom hardware help with rustc compile time? : r/rust#__#&lt;&lt;heavily branched code#red&gt;&gt; &lt;&lt;CPU pipeline is underused#red&gt;&gt; &lt;&lt;CPU multithreading#green&gt;&gt; &lt;&lt;CPUs with 2,4 or even 8-way SMT#green&gt;&gt; &lt;&lt;help to reach better throughput per core#blue&gt;&gt; &lt;&lt;commandline_be&gt;&gt; &lt;&lt;SSA in rust can greatly benefit from a boost in graph processing#blue&gt;&gt; &lt;&lt;consider having an opencl accelerated rustc developed#green&gt;&gt;</title>
         </bookmark>
       </folder>
     </folder>
@@ -3938,6 +3938,9 @@ https://docs.microsoft.com/en-us/windows/terminal/cascadia-code</title>
       <title>Async</title>
       <bookmark href="https://rust-lang.github.io/async-book/01_getting_started/02_why_async.html" id="1963">
         <title>Why Async? - Asynchronous Programming in Rust#__#&lt;&lt;Coroutines#red&gt;&gt; &lt;&lt;Futures are inert&gt;&gt; &lt;&lt;make progress only when polled#red&gt;&gt; &lt;&lt;Dropping a future stops it from making further progress#red&gt;&gt; &lt;&lt;can use async without heap allocations&gt;&gt; &lt;&lt;dynamic dispatch&gt;&gt; &lt;&lt;Both single- and multithreaded runtimes are available&gt;&gt; &lt;&lt;OS threads are suitable for a small number of tasks#red&gt;&gt; &lt;&lt;Async provides significantly reduced CPU and memory#green&gt;&gt; &lt;&lt;orders of magnitude more tasks#green&gt;&gt; &lt;&lt;than OS threads#red&gt;&gt; &lt;&lt;larger binary#red&gt;&gt; &lt;&lt;state machines#red&gt;&gt; &lt;&lt;each executable bundles an async runtime#red&gt;&gt; &lt;&lt;asynchronous programming is not better#red&gt;&gt; &lt;&lt;but different#green&gt;&gt; &lt;&lt;downloading a web page is a small task#blue&gt;&gt; &lt;&lt;reating a thread for such a small amount of work is quite wasteful#red&gt;&gt; &lt;&lt;join!(&gt;&gt;</title>
+      </bookmark>
+      <bookmark href="https://www.reddit.com/r/rust/comments/cggm4m/hardware_for_async_rust_in_production/" id="1999">
+        <title>Hardware for async rust in production? : r/rust#__#&lt;&lt;at the expense of throughout#red&gt;&gt; &lt;&lt;dstat on some more realistic hardware#green&gt;&gt; </title>
       </bookmark>
       <bookmark href="https://separator.floccus.org/?id=729097" id="1964">
         <title>-----</title>
