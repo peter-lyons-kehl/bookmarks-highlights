@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2007: for Floccus bookmark sync browser extension -->
+<!--- highestId :2008: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Algorithms</title>
@@ -1758,10 +1758,13 @@
           <title>PassMark CPU TDP Chart - Performance / Power of available CPUs</title>
         </bookmark>
         <bookmark href="https://www.cpubenchmark.net/singleThread.html" id="2007">
-          <title>PassMark CPU Benchmarks - Single Thread Performance#__#&lt;&lt;Only the top 250 results for each category#red&gt;&gt; </title>
+          <title>PassMark CPU Benchmarks - Single Thread Performance#__#&lt;&lt;Only the top 250 results for each category#red&gt;&gt;</title>
         </bookmark>
         <bookmark href="https://www.cpubenchmark.net/singleCompare.php" id="2006">
           <title>PassMark - CPU Comparison</title>
+        </bookmark>
+        <bookmark href="https://www.cpubenchmark.net/singleThread_value.html" id="2008">
+          <title>PassMark CPU Benchmarks - Single Thread Performance</title>
         </bookmark>
         <bookmark href="https://separator.floccus.org/?id=4954" id="2001">
           <title>-----</title>
