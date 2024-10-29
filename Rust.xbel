@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2010: for Floccus bookmark sync browser extension -->
+<!--- highestId :2011: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Algorithms</title>
@@ -1458,6 +1458,9 @@
       <bookmark href="https://doc.rust-lang.org/nightly/book/ch11-01-writing-tests.html" id="621">
         <title>How to Write Tests - The Rust Programming Language#__#&lt;&lt;The next part of the test output, which starts with Doc-tests#green&gt;&gt; &lt;&lt;assert_eq! and assert_ne! macros use the operators == and !=, respectively#green&gt;&gt; &lt;&lt;implement the PartialEq and Debug#green&gt;&gt; &lt;&lt;#[derive(PartialEq, Debug)]#green&gt;&gt; &lt;&lt;can also add a custom message to be printed with the failure message as optional arguments to the assert!, assert_eq!, and assert_ne!#green&gt;&gt; &lt;&lt;pub fn greeting(name: &amp;str) -&gt; String#green&gt;&gt; &lt;&lt;let result = greeting(&quot;Carol&quot;);#green&gt;&gt; &lt;&lt;result.contains(&quot;Carol&quot;)#green&gt;&gt; &lt;&lt;#[should_panic]#green&gt;&gt; &lt;&lt;#[should_panic(expected = &quot;#green&gt;&gt; &lt;&lt;should_panic attribute’s expected parameter is a substring of the message#green&gt;&gt; &lt;&lt;Using Result&lt;T, E&gt; in Tests#green&gt;&gt; &lt;&lt;Writing tests so they return a Result&lt;T, E&gt; enables you to use the question mark operator#green&gt;&gt; &lt;&lt;can’t use the #[should_panic] annotation on tests that use Result&lt;T, E&gt;#red&gt;&gt; &lt;&lt;Instead, you should return an Err value directly when the test should fail.#green&gt;&gt;</title>
       </bookmark>
+      <bookmark href="https://www.reddit.com/r/rust/comments/ippyeg/you_wont_believe_this_one_weird_trick_to_speed_up/" id="2011">
+        <title>You won&apos;t believe this one weird trick to speed up and improve your tests! : r/rust</title>
+      </bookmark>
       <bookmark href="https://docs.microsoft.com/en-us/learn/modules/rust-automated-tests/" id="622">
         <title>Write automated tests - Learn | Microsoft Docs</title>
       </bookmark>
@@ -1951,7 +1954,7 @@
         <title>-----</title>
       </bookmark>
       <bookmark href="https://www.reddit.com/r/rust/comments/azupon/compile_times_and_out_of_memory_error/" id="2010">
-        <title>Compile times and out of memory error : r/rust#__#&lt;&lt;hairy type inference#red&gt;&gt; &lt;&lt;mnay GB of RAM#red&gt;&gt; &lt;&lt;but only when doing really really deep recursive structures#red&gt;&gt; </title>
+        <title>Compile times and out of memory error : r/rust#__#&lt;&lt;hairy type inference#red&gt;&gt; &lt;&lt;mnay GB of RAM#red&gt;&gt; &lt;&lt;but only when doing really really deep recursive structures#red&gt;&gt;</title>
       </bookmark>
     </folder>
   </folder>
