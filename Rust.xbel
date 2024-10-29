@@ -1951,7 +1951,7 @@
         <title>-----</title>
       </bookmark>
       <bookmark href="https://www.reddit.com/r/rust/comments/azupon/compile_times_and_out_of_memory_error/" id="2010">
-        <title>Compile times and out of memory error : r/rust#__#&lt;&lt;hairy type inference#red&gt;&gt; </title>
+        <title>Compile times and out of memory error : r/rust#__#&lt;&lt;hairy type inference#red&gt;&gt; &lt;&lt;mnay GB of RAM#red&gt;&gt; &lt;&lt;but only when doing really really deep recursive structures#red&gt;&gt; </title>
       </bookmark>
     </folder>
   </folder>
