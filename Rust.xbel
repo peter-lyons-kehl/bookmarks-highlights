@@ -3923,7 +3923,7 @@ https://docs.microsoft.com/en-us/windows/terminal/cascadia-code</title>
       <title>-----</title>
     </bookmark>
     <bookmark href="https://github.com/japaric/trust" id="1997">
-      <title>japaric/trust: Travis CI and AppVeyor template to test your Rust crate on 5 architectures and publish binary releases of it for Linux, macOS and Windows#__#&lt;&lt;5 architectures@1&gt;&gt; &lt;&lt;publish binary releases of it for Linux, macOS and Windows@1&gt;&gt; </title>
+      <title>japaric/trust: Travis CI and AppVeyor template to test your Rust crate on 5 architectures and publish binary releases of it for Linux, macOS and Windows#__#&lt;&lt;5 architectures@1&gt;&gt; &lt;&lt;publish binary releases of it for Linux, macOS and Windows@1&gt;&gt; &lt;&lt;Travis CI and AppVeyor@1&gt;&gt; </title>
     </bookmark>
     <bookmark href="https://github.com/japaric/rust-cross/blob/master/README.md" id="1995">
       <title>rust-cross/README.md at master · japaric/rust-cross#__#&lt;&lt;cross compile from Linux to Mac?@1&gt;&gt; &lt;&lt;You don&apos;t.#red&gt;&gt; &lt;&lt;hard to find a cross C toolchain#red&gt;&gt; &lt;&lt;and cross compiled C libraries#red&gt;&gt; &lt;&lt;except perhaps from Linux to Windows#green&gt;&gt; &lt;&lt;targets of the form *-*-linux-gnu*&gt;&gt; &lt;&lt;dynamically linked to glibc and other libraries:#blue&gt;&gt; &lt;&lt;cargo new --bin hello@1&gt;&gt; &lt;&lt;file target/x86_64-unknown-linux-gnu/debug/hello&gt;&gt; &lt;&lt;ELF 64-bit LSB shared object, x86-64, version 1 (SYSV), dynamically&gt;&gt; &lt;&lt;ldd target/x86_64-unknown-linux-gnu/debug/hello&gt;&gt; &lt;&lt;linux-vdso.so.1#red&gt;&gt; &lt;&lt;libdl.so.2#red&gt;&gt; &lt;&lt;libpthread.so.0@2#red&gt;&gt;</title>
