@@ -1786,7 +1786,7 @@
         <title>How to alleviate the pain of Rust compile times#__#&lt;&lt;Avoid LTO#red&gt;&gt; &lt;&lt;2018&gt;&gt; &lt;&lt;LTO makes the compilation of ppbert 300% longer#red&gt;&gt; &lt;&lt;2% speed gain at run-time#red&gt;&gt; rg = recursive grep&lt;&lt;rg default-features Cargo.toml &amp;&amp; cargo tree -p clap#green&gt;&gt;</title>
       </bookmark>
       <bookmark href="https://blog.rust-lang.org/2024/05/17/enabling-rust-lld-on-linux.html" id="2012">
-        <title>Faster linking times on nightly on Linux using `rust-lld` | Rust Blog#__#&lt;&lt;2024&gt;&gt; &lt;&lt;rust-lld by default on x86_64-unknown-linux-gnu on nightly&gt;&gt; </title>
+        <title>Faster linking times on nightly on Linux using `rust-lld` | Rust Blog#__#&lt;&lt;2024&gt;&gt; &lt;&lt;rust-lld by default on x86_64-unknown-linux-gnu on nightly&gt;&gt; &lt;&lt;Some of Rust&apos;s wasm and aarch64 targets already use lld by default.&gt;&gt; </title>
       </bookmark>
       <bookmark href="https://separator.floccus.org/?id=178976" id="1982">
         <title>-----</title>
