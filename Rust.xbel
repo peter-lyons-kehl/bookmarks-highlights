@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2019: for Floccus bookmark sync browser extension -->
+<!--- highestId :2021: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Algorithms</title>
@@ -1832,6 +1832,9 @@
       </bookmark>
       <bookmark href="https://blog.rust-lang.org/2024/05/17/enabling-rust-lld-on-linux.html" id="2012">
         <title>Faster linking times on nightly on Linux using `rust-lld` | Rust Blog#__#&lt;&lt;2024&gt;&gt; &lt;&lt;rust-lld by default on x86_64-unknown-linux-gnu on nightly&gt;&gt; &lt;&lt;Some of Rust&apos;s wasm and aarch64 targets already use lld by default.&gt;&gt; &lt;&lt;referred to as rust-lld#blue&gt;&gt;</title>
+      </bookmark>
+      <bookmark href="https://users.rust-lang.org/t/incremental-linking-for-rust/80122/10" id="2020">
+        <title>Incremental linking for Rust - Uncategorized - Rust</title>
       </bookmark>
     </folder>
     <folder id="1429">
@@ -5765,6 +5768,9 @@ https://docs.microsoft.com/en-us/windows/terminal/cascadia-code</title>
       </bookmark>
       <bookmark href="https://alexcrichton.github.io/bacon-exercises/" id="1641">
         <title>Component Exercises</title>
+      </bookmark>
+      <bookmark href="https://users.rust-lang.org/t/incremental-linking-for-rust/80122/10" id="2021">
+        <title>Incremental linking for Rust - Uncategorized - Rust</title>
       </bookmark>
     </folder>
     <folder id="2015">
