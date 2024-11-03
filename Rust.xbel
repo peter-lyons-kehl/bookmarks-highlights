@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2012: for Floccus bookmark sync browser extension -->
+<!--- highestId :2013: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Algorithms</title>
@@ -1785,6 +1785,9 @@
       <bookmark href="https://vfoley.xyz/rust-compile-speed-tips/" id="1959">
         <title>How to alleviate the pain of Rust compile times#__#&lt;&lt;Avoid LTO#red&gt;&gt; &lt;&lt;2018&gt;&gt; &lt;&lt;LTO makes the compilation of ppbert 300% longer#red&gt;&gt; &lt;&lt;2% speed gain at run-time#red&gt;&gt; rg = recursive grep&lt;&lt;rg default-features Cargo.toml &amp;&amp; cargo tree -p clap#green&gt;&gt;</title>
       </bookmark>
+      <bookmark href="https://stackoverflow.com/questions/55809419/rust-lld-is-missing-how-do-i-install-it" id="2013">
+        <title>rust-lld is missing, how do I install it? - Stack Overflow#__#&lt;&lt;rust-lld is in a non $PATH#red&gt;&gt; &lt;&lt;use either the full path#green&gt;&gt; &lt;&lt;In my case&gt;&gt; </title>
+      </bookmark>
       <bookmark href="https://separator.floccus.org/?id=178976" id="1982">
         <title>-----</title>
       </bookmark>
@@ -1825,7 +1828,7 @@
         <title>bevy/config_fast_builds at main · bevyengine/bevy · GitHub</title>
       </bookmark>
       <bookmark href="https://blog.rust-lang.org/2024/05/17/enabling-rust-lld-on-linux.html" id="2012">
-        <title>Faster linking times on nightly on Linux using `rust-lld` | Rust Blog#__#&lt;&lt;2024&gt;&gt; &lt;&lt;rust-lld by default on x86_64-unknown-linux-gnu on nightly&gt;&gt; &lt;&lt;Some of Rust&apos;s wasm and aarch64 targets already use lld by default.&gt;&gt; &lt;&lt;referred to as rust-lld#blue&gt;&gt; </title>
+        <title>Faster linking times on nightly on Linux using `rust-lld` | Rust Blog#__#&lt;&lt;2024&gt;&gt; &lt;&lt;rust-lld by default on x86_64-unknown-linux-gnu on nightly&gt;&gt; &lt;&lt;Some of Rust&apos;s wasm and aarch64 targets already use lld by default.&gt;&gt; &lt;&lt;referred to as rust-lld#blue&gt;&gt;</title>
       </bookmark>
     </folder>
     <folder id="1429">
