@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2014: for Floccus bookmark sync browser extension -->
+<!--- highestId :2016: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Algorithms</title>
@@ -1789,7 +1789,7 @@
         <title>rust-lld is missing, how do I install it? - Stack Overflow#__#&lt;&lt;rust-lld is in a non $PATH#red&gt;&gt; &lt;&lt;use either the full path#green&gt;&gt; &lt;&lt;In my case&gt;&gt;</title>
       </bookmark>
       <bookmark href="https://stackoverflow.com/questions/59458837/rust-stdweb-fails-to-compile" id="2014">
-        <title>webassembly - Rust stdweb fails to compile - Stack Overflow#__#&lt;&lt;RUSTFLAGS=&apos;-C linker=rust-lld#green&gt;&gt; &lt;&lt;&quot;-C link-args=&apos;-fuse-ld=gold&apos;&quot; by default#red&gt;&gt; </title>
+        <title>webassembly - Rust stdweb fails to compile - Stack Overflow#__#&lt;&lt;RUSTFLAGS=&apos;-C linker=rust-lld#green&gt;&gt; &lt;&lt;&quot;-C link-args=&apos;-fuse-ld=gold&apos;&quot; by default#red&gt;&gt;</title>
       </bookmark>
       <bookmark href="https://separator.floccus.org/?id=178976" id="1982">
         <title>-----</title>
@@ -5765,6 +5765,12 @@ https://docs.microsoft.com/en-us/windows/terminal/cascadia-code</title>
       </bookmark>
       <bookmark href="https://alexcrichton.github.io/bacon-exercises/" id="1641">
         <title>Component Exercises</title>
+      </bookmark>
+    </folder>
+    <folder id="2015">
+      <title>wasm-pack</title>
+      <bookmark href="https://users.rust-lang.org/t/target-wasm32-unknown-unknown-without-wasm-pack/72179" id="2016">
+        <title>Target wasm32-unknown-unknown without wasm-pack? - Rust#__#&lt;&lt;cargo build --target wasm32-unknown-unknown --release is very fast#green&gt;&gt; </title>
       </bookmark>
     </folder>
     <folder id="1517">
