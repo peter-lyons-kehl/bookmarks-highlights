@@ -5770,7 +5770,7 @@ https://docs.microsoft.com/en-us/windows/terminal/cascadia-code</title>
     <folder id="2015">
       <title>wasm-pack</title>
       <bookmark href="https://users.rust-lang.org/t/target-wasm32-unknown-unknown-without-wasm-pack/72179" id="2016">
-        <title>Target wasm32-unknown-unknown without wasm-pack? - Rust#__#&lt;&lt;cargo build --target wasm32-unknown-unknown --release is very fast#green&gt;&gt; &lt;&lt;wasm-pack --dev generates very slow binaries#red&gt;&gt; &lt;&lt;wasm-pack --release takes lots of compile time#red&gt;&gt; &lt;&lt;to run everything in the browser&gt;&gt; </title>
+        <title>Target wasm32-unknown-unknown without wasm-pack? - Uncategorized - Rust#__#&lt;&lt;cargo build --target wasm32-unknown-unknown --release is very fast#green&gt;&gt; &lt;&lt;wasm-pack --dev generates very slow binaries#red&gt;&gt; &lt;&lt;wasm-pack --release takes lots of compile time#red&gt;&gt; &lt;&lt;to run everything in the browser&gt;&gt; &lt;&lt;insane-british-anagram-rust#green&gt;&gt; </title>
       </bookmark>
     </folder>
     <folder id="1517">
