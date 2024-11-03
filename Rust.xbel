@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2013: for Floccus bookmark sync browser extension -->
+<!--- highestId :2014: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Algorithms</title>
@@ -1786,7 +1786,10 @@
         <title>How to alleviate the pain of Rust compile times#__#&lt;&lt;Avoid LTO#red&gt;&gt; &lt;&lt;2018&gt;&gt; &lt;&lt;LTO makes the compilation of ppbert 300% longer#red&gt;&gt; &lt;&lt;2% speed gain at run-time#red&gt;&gt; rg = recursive grep&lt;&lt;rg default-features Cargo.toml &amp;&amp; cargo tree -p clap#green&gt;&gt;</title>
       </bookmark>
       <bookmark href="https://stackoverflow.com/questions/55809419/rust-lld-is-missing-how-do-i-install-it" id="2013">
-        <title>rust-lld is missing, how do I install it? - Stack Overflow#__#&lt;&lt;rust-lld is in a non $PATH#red&gt;&gt; &lt;&lt;use either the full path#green&gt;&gt; &lt;&lt;In my case&gt;&gt; </title>
+        <title>rust-lld is missing, how do I install it? - Stack Overflow#__#&lt;&lt;rust-lld is in a non $PATH#red&gt;&gt; &lt;&lt;use either the full path#green&gt;&gt; &lt;&lt;In my case&gt;&gt;</title>
+      </bookmark>
+      <bookmark href="https://stackoverflow.com/questions/59458837/rust-stdweb-fails-to-compile" id="2014">
+        <title>webassembly - Rust stdweb fails to compile - Stack Overflow#__#&lt;&lt;RUSTFLAGS=&apos;-C linker=rust-lld#green&gt;&gt; &lt;&lt;&quot;-C link-args=&apos;-fuse-ld=gold&apos;&quot; by default#red&gt;&gt; </title>
       </bookmark>
       <bookmark href="https://separator.floccus.org/?id=178976" id="1982">
         <title>-----</title>
