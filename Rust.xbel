@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2021: for Floccus bookmark sync browser extension -->
+<!--- highestId :2022: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Algorithms</title>
@@ -286,6 +286,9 @@
   </folder>
   <folder id="34">
     <title>Error Handling</title>
+    <bookmark href="https://fettblog.eu/rust-enums-wrapping-errors/" id="2022">
+      <title>Rust: Enums to wrap multiple errors</title>
+    </bookmark>
     <bookmark href="https://www.youtube.com/watch?v=sNXngI4ZHoA" id="125">
       <title>Error Handling with Michael Harding - May 13, 2021 - YouTube</title>
     </bookmark>
