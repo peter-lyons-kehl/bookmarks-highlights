@@ -287,7 +287,7 @@
   <folder id="34">
     <title>Error Handling</title>
     <bookmark href="https://fettblog.eu/rust-enums-wrapping-errors/" id="2022">
-      <title>Rust: Enums to wrap multiple errors#__#&lt;&lt;thiserror if you care about designing your own dedicated error type(s)#blue&gt;&gt; &lt;&lt;caller receives exactly&gt;&gt; &lt;&lt;library-like#green&gt;&gt; </title>
+      <title>Rust: Enums to wrap multiple errors#__#&lt;&lt;thiserror if you care about designing your own dedicated error type(s)#blue&gt;&gt; &lt;&lt;caller receives exactly&gt;&gt; &lt;&lt;library-like#green&gt;&gt; &lt;&lt;Anyhow if you don’t care what error type your functions return#blue&gt;&gt; &lt;&lt;to be easy#green&gt;&gt; </title>
     </bookmark>
     <bookmark href="https://www.youtube.com/watch?v=sNXngI4ZHoA" id="125">
       <title>Error Handling with Michael Harding - May 13, 2021 - YouTube</title>
