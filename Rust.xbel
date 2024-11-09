@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2022: for Floccus bookmark sync browser extension -->
+<!--- highestId :2023: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Algorithms</title>
@@ -4908,6 +4908,9 @@ https://docs.microsoft.com/en-us/windows/terminal/cascadia-code</title>
     </bookmark>
     <bookmark href="https://github.com/tkaitchuck/aHash/blob/master/README.md" id="367">
       <title>aHash/README.md at master · tkaitchuck/aHash#__#&lt;&lt;fastest&gt;&gt; &lt;&lt;DOS resistant&gt;&gt; &lt;&lt;high quality&gt;&gt; &lt;&lt;but#red&gt;&gt; &lt;&lt;not a cryptographically secure#red&gt;&gt; &lt;&lt;a keyed hash&gt;&gt; &lt;&lt;each map will produce completely different hashes&gt;&gt; &lt;&lt;Goals&gt;&gt; &lt;&lt;Non-Goals#green&gt;&gt; &lt;&lt;not have a fixed standard for its output#red&gt;&gt; &lt;&lt;allows it to improve over time#green&gt;&gt; &lt;&lt;exclusively for use in in-memory#red&gt;&gt; &lt;&lt;persist hashed values. (In these cases HighwayHash#green&gt;&gt; &lt;&lt;not be used as a MAC#red&gt;&gt; &lt;&lt;SHA-3#green&gt;&gt; &lt;&lt;HashMap&lt;i32, i32, RandomState&gt;&gt; &gt;&lt;&lt;map: AHashMap&lt;i32, i32&gt; = AHashMap::new()#green&gt;&gt; &lt;&lt;getrandom&gt;&gt; &lt;&lt;nightly-arm-aes&gt;&gt; &lt;&lt;AES instructions on 32-bit ARM&gt;&gt; &lt;&lt;requires nightly#red&gt;&gt; &lt;&lt;not needed on AArch64#green&gt;&gt; &lt;&lt;DOS resistance even if there is no random number generator available at runtime#green&gt;&gt; &lt;&lt;assuming the compiled binary is not public#red&gt;&gt; &lt;&lt;binary non-deterministic#red&gt;&gt; &lt;&lt;constrandom&gt;&gt; &lt;&lt;more representative performance comparison#blue&gt;&gt; &lt;&lt;includes the overhead of using a HashMap#red&gt;&gt; &lt;&lt;see HashBrown&apos;s benchmarks#green&gt;&gt; &lt;&lt;HashBrown now uses aHash#green&gt;&gt; &lt;&lt;FAQ document#green&gt;&gt;</title>
+    </bookmark>
+    <bookmark href="https://github.com/sunshowers-code/borrow-complex-key-example" id="2023">
+      <title>sunshowers-code/borrow-complex-key-example: A working Rust example for how to implement Borrow for complex keys</title>
     </bookmark>
   </folder>
   <folder id="72">
