@@ -5782,7 +5782,7 @@ https://docs.microsoft.com/en-us/windows/terminal/cascadia-code</title>
         <title>Incremental linking for Rust - Uncategorized - Rust</title>
       </bookmark>
       <bookmark href="https://github.com/makepad/stitch" id="2026">
-        <title>makepad/stitch: Stitch is an experimental Wasm interpreter written in Rust that is designed to be very fast and lightweight.#__#&lt;&lt;interpreter&gt;&gt; &lt;&lt;relying on sibling call optimisation&gt;&gt; &lt;&lt;sibling calls are a restricted form of tail calls#blue&gt;&gt; &lt;&lt;callee has the same signature as the caller#blue&gt;&gt; &lt;&lt;in practice, LLVM automatically optimises sibling calls on 64-bit&gt;&gt; &lt;&lt;Wasmtime is a JIT compiler#blue&gt;&gt; &lt;&lt;Stitch uses threaded#green&gt;&gt; </title>
+        <title>makepad/stitch: Stitch is an experimental Wasm interpreter written in Rust that is designed to be very fast and lightweight.#__#&lt;&lt;interpreter&gt;&gt; &lt;&lt;relying on sibling call optimisation&gt;&gt; &lt;&lt;sibling calls are a restricted form of tail calls#blue&gt;&gt; &lt;&lt;callee has the same signature as the caller#blue&gt;&gt; &lt;&lt;in practice, LLVM automatically optimises sibling calls on 64-bit&gt;&gt; &lt;&lt;Wasmtime is a JIT compiler#blue&gt;&gt; &lt;&lt;Stitch uses threaded#green&gt;&gt; &lt;&lt;edge on the Apple M2 Pro, with its large instruction cache#green&gt;&gt; </title>
       </bookmark>
     </folder>
     <folder id="2015">
