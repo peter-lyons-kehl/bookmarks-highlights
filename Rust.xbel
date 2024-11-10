@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2027: for Floccus bookmark sync browser extension -->
+<!--- highestId :2028: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Algorithms</title>
@@ -2367,6 +2367,9 @@ https://docs.microsoft.com/en-us/windows/terminal/cascadia-code</title>
     </bookmark>
     <bookmark href="https://serde.rs/" id="1718">
       <title>Overview · Serde</title>
+    </bookmark>
+    <bookmark href="https://github.com/makepad/microserde" id="2028">
+      <title>microserde</title>
     </bookmark>
     <bookmark href="https://transform.tools/json-to-rust-serde" id="1719">
       <title>JSON to Rust Serde</title>
