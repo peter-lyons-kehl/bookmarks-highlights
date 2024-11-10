@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2025: for Floccus bookmark sync browser extension -->
+<!--- highestId :2026: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Algorithms</title>
@@ -5780,6 +5780,9 @@ https://docs.microsoft.com/en-us/windows/terminal/cascadia-code</title>
       </bookmark>
       <bookmark href="https://users.rust-lang.org/t/incremental-linking-for-rust/80122/10" id="2021">
         <title>Incremental linking for Rust - Uncategorized - Rust</title>
+      </bookmark>
+      <bookmark href="https://github.com/makepad/stitch" id="2026">
+        <title>makepad/stitch: Stitch is an experimental Wasm interpreter written in Rust that is designed to be very fast and lightweight.</title>
       </bookmark>
     </folder>
     <folder id="2015">
