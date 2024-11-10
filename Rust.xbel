@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2026: for Floccus bookmark sync browser extension -->
+<!--- highestId :2027: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Algorithms</title>
@@ -2362,6 +2362,9 @@ https://docs.microsoft.com/en-us/windows/terminal/cascadia-code</title>
   </folder>
   <folder id="1600">
     <title>Serialize, Protobuf-like, gRPC-like</title>
+    <bookmark href="https://github.com/dtolnay/miniserde" id="2027">
+      <title>dtolnay/miniserde: Data structure serialization library with several opposite design goals from Serde</title>
+    </bookmark>
     <bookmark href="https://serde.rs/" id="1718">
       <title>Overview · Serde</title>
     </bookmark>
@@ -5782,7 +5785,7 @@ https://docs.microsoft.com/en-us/windows/terminal/cascadia-code</title>
         <title>Incremental linking for Rust - Uncategorized - Rust</title>
       </bookmark>
       <bookmark href="https://github.com/makepad/stitch" id="2026">
-        <title>makepad/stitch: Stitch is an experimental Wasm interpreter written in Rust that is designed to be very fast and lightweight.#__#&lt;&lt;interpreter&gt;&gt; &lt;&lt;relying on sibling call optimisation&gt;&gt; &lt;&lt;sibling calls are a restricted form of tail calls#blue&gt;&gt; &lt;&lt;callee has the same signature as the caller#blue&gt;&gt; &lt;&lt;in practice, LLVM automatically optimises sibling calls on 64-bit&gt;&gt; &lt;&lt;Wasmtime is a JIT compiler#blue&gt;&gt; &lt;&lt;Stitch uses threaded#green&gt;&gt; &lt;&lt;edge on the Apple M2 Pro, with its large instruction cache#green&gt;&gt; &lt;&lt;more variants per instruction#blue&gt;&gt; &lt;&lt;Intel Xeon E312xx, with its smaller instruciton cache#red&gt;&gt; &lt;&lt;System V calling convention for its threaded#green&gt;&gt; &lt;&lt;vectorcall calling convention, which has fewer registers available to pass integer arguments#red&gt;&gt; &lt;&lt;very lightweight#green&gt;&gt; &lt;&lt;to use Stitch as a Rust library#green&gt;&gt; &lt;&lt;refer to the Stitch crate docs#green&gt;&gt; </title>
+        <title>makepad/stitch: Stitch is an experimental Wasm interpreter written in Rust that is designed to be very fast and lightweight.#__#&lt;&lt;interpreter&gt;&gt; &lt;&lt;relying on sibling call optimisation&gt;&gt; &lt;&lt;sibling calls are a restricted form of tail calls#blue&gt;&gt; &lt;&lt;callee has the same signature as the caller#blue&gt;&gt; &lt;&lt;in practice, LLVM automatically optimises sibling calls on 64-bit&gt;&gt; &lt;&lt;Wasmtime is a JIT compiler#blue&gt;&gt; &lt;&lt;Stitch uses threaded#green&gt;&gt; &lt;&lt;edge on the Apple M2 Pro, with its large instruction cache#green&gt;&gt; &lt;&lt;more variants per instruction#blue&gt;&gt; &lt;&lt;Intel Xeon E312xx, with its smaller instruciton cache#red&gt;&gt; &lt;&lt;System V calling convention for its threaded#green&gt;&gt; &lt;&lt;vectorcall calling convention, which has fewer registers available to pass integer arguments#red&gt;&gt; &lt;&lt;very lightweight#green&gt;&gt; &lt;&lt;to use Stitch as a Rust library#green&gt;&gt; &lt;&lt;refer to the Stitch crate docs#green&gt;&gt;</title>
       </bookmark>
     </folder>
     <folder id="2015">
