@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2028: for Floccus bookmark sync browser extension -->
+<!--- highestId :2029: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Algorithms</title>
@@ -4636,6 +4636,9 @@ https://docs.microsoft.com/en-us/windows/terminal/cascadia-code</title>
         </bookmark>
         <bookmark href="https://rust-unofficial.github.io/too-many-lists/third-final.html" id="1759">
           <title>Final Code - Learning Rust With Entirely Too Many Linked Lists#__#&lt;&lt;immutable&gt;&gt; &lt;&lt;impl&lt;T&gt; Drop&gt;&gt; &lt;&lt;.take()&gt;&gt; &lt;&lt;if let Ok(mut node) = Rc::try_unwrap(node)&gt;&gt; &lt;&lt;node.next.take()&gt;&gt;</title>
+        </bookmark>
+        <bookmark href="https://fasterthanli.me/articles/some-mistakes-rust-doesnt-catch" id="2029">
+          <title>Some mistakes Rust doesn&apos;t catch</title>
         </bookmark>
         <bookmark href="https://separator.floccus.org/?id=634740" id="1760">
           <title>-----</title>
