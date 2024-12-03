@@ -4638,7 +4638,7 @@ https://docs.microsoft.com/en-us/windows/terminal/cascadia-code</title>
           <title>Final Code - Learning Rust With Entirely Too Many Linked Lists#__#&lt;&lt;immutable&gt;&gt; &lt;&lt;impl&lt;T&gt; Drop&gt;&gt; &lt;&lt;.take()&gt;&gt; &lt;&lt;if let Ok(mut node) = Rc::try_unwrap(node)&gt;&gt; &lt;&lt;node.next.take()&gt;&gt;</title>
         </bookmark>
         <bookmark href="https://fasterthanli.me/articles/some-mistakes-rust-doesnt-catch" id="2029">
-          <title>Some mistakes Rust doesn&apos;t catch#__#&lt;&lt;Mutex from parking_lot#red&gt;&gt; </title>
+          <title>Some mistakes Rust doesn&apos;t catch#__#&lt;&lt;Mutex from parking_lot#red&gt;&gt; &lt;&lt;we... never unlock the mutex?&gt;&gt; &lt;&lt;Not explicitly at least.#blue&gt;&gt; </title>
         </bookmark>
         <bookmark href="https://separator.floccus.org/?id=634740" id="1760">
           <title>-----</title>
