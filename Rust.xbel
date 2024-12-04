@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2038: for Floccus bookmark sync browser extension -->
+<!--- highestId :2040: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Algorithms</title>
@@ -4927,16 +4927,22 @@ https://docs.microsoft.com/en-us/windows/terminal/cascadia-code</title>
     <bookmark href="https://gist.github.com/mysteriouspants/9a3a327802ffcf95b10c66885412da04" id="364">
       <title>cache.rs</title>
     </bookmark>
-    <bookmark href="https://users.rust-lang.org/t/are-there-copy-on-write-maps/27486" id="365">
-      <title>Are there copy on write maps? - help - The Rust Programming Language Forum#__#&lt;&lt;https://crates.io/crates/im&gt;&gt; &lt;&lt;https://crates.io/crates/rpds&gt;&gt; </title>
-    </bookmark>
     <bookmark href="https://doc.rust-lang.org/std/collections/hash_map/enum.Entry.html" id="366">
       <title>Entry in std::collections::hash_map - Rust</title>
     </bookmark>
     <bookmark href="https://github.com/tkaitchuck/aHash/blob/master/README.md" id="367">
       <title>aHash/README.md at master · tkaitchuck/aHash#__#&lt;&lt;fastest&gt;&gt; &lt;&lt;DOS resistant&gt;&gt; &lt;&lt;high quality&gt;&gt; &lt;&lt;but#red&gt;&gt; &lt;&lt;not a cryptographically secure#red&gt;&gt; &lt;&lt;a keyed hash&gt;&gt; &lt;&lt;each map will produce completely different hashes&gt;&gt; &lt;&lt;Goals&gt;&gt; &lt;&lt;Non-Goals#green&gt;&gt; &lt;&lt;not have a fixed standard for its output#red&gt;&gt; &lt;&lt;allows it to improve over time#green&gt;&gt; &lt;&lt;exclusively for use in in-memory#red&gt;&gt; &lt;&lt;persist hashed values. (In these cases HighwayHash#green&gt;&gt; &lt;&lt;not be used as a MAC#red&gt;&gt; &lt;&lt;SHA-3#green&gt;&gt; &lt;&lt;HashMap&lt;i32, i32, RandomState&gt;&gt; &gt;&lt;&lt;map: AHashMap&lt;i32, i32&gt; = AHashMap::new()#green&gt;&gt; &lt;&lt;getrandom&gt;&gt; &lt;&lt;nightly-arm-aes&gt;&gt; &lt;&lt;AES instructions on 32-bit ARM&gt;&gt; &lt;&lt;requires nightly#red&gt;&gt; &lt;&lt;not needed on AArch64#green&gt;&gt; &lt;&lt;DOS resistance even if there is no random number generator available at runtime#green&gt;&gt; &lt;&lt;assuming the compiled binary is not public#red&gt;&gt; &lt;&lt;binary non-deterministic#red&gt;&gt; &lt;&lt;constrandom&gt;&gt; &lt;&lt;more representative performance comparison#blue&gt;&gt; &lt;&lt;includes the overhead of using a HashMap#red&gt;&gt; &lt;&lt;see HashBrown&apos;s benchmarks#green&gt;&gt; &lt;&lt;HashBrown now uses aHash#green&gt;&gt; &lt;&lt;FAQ document#green&gt;&gt;</title>
     </bookmark>
-    <bookmark href="https://separator.floccus.org/?id=641679" id="2024">
+    <bookmark href="https://separator.floccus.org/?id=641679" id="2039">
+      <title>-----</title>
+    </bookmark>
+    <bookmark href="https://users.rust-lang.org/t/are-there-copy-on-write-maps/27486" id="365">
+      <title>Are there copy on write maps? - help - The Rust Programming Language Forum#__#&lt;&lt;https://crates.io/crates/im&gt;&gt; &lt;&lt;https://crates.io/crates/rpds&gt;&gt;</title>
+    </bookmark>
+    <bookmark href="https://users.rust-lang.org/t/are-there-copy-on-write-maps/27486/6" id="2040">
+      <title>Are there copy on write maps? - help - The Rust Programming Language Forum</title>
+    </bookmark>
+    <bookmark href="https://separator.floccus.org/?id=24813" id="2024">
       <title>-----</title>
     </bookmark>
     <bookmark href="https://github.com/sunshowers-code/borrow-complex-key-example" id="2023">
