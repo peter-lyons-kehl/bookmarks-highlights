@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2030: for Floccus bookmark sync browser extension -->
+<!--- highestId :2031: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Algorithms</title>
@@ -4248,8 +4248,8 @@ https://docs.microsoft.com/en-us/windows/terminal/cascadia-code</title>
       <bookmark href="https://github.com/gfx-rs/wgpu" id="2030">
         <title>gfx-rs/wgpu: A cross-platform, safe, pure-Rust graphics API.</title>
       </bookmark>
-      <bookmark href="https://github.com/gfx-rs/wgpu-rs" id="850">
-        <title>wgpu-rs - Emu low level; WASM</title>
+      <bookmark href="https://news.ycombinator.com/item?id=40609889" id="2031">
+        <title>What happened was wgpu, which runs on top of Vulkan and can also run on the web ... | Hacker News</title>
       </bookmark>
       <bookmark href="https://bheisler.github.io/post/state-of-gpgpu-in-rust/" id="851">
         <title>The State of GPGPU in Rust | bheisler.github.io#__#&lt;&lt;8 Aug, 2018#red&gt;&gt; &lt;&lt;CUDA support in Rust is pretty poor#red&gt;&gt; &lt;&lt;rust-opencl#red&gt;&gt; &lt;&lt;is abandoned#red&gt;&gt; &lt;&lt;ocl@2#green&gt;&gt; &lt;&lt;drop down to the lower level if needed#green&gt;&gt; &lt;&lt;OpenCL kernels#red&gt;&gt; &lt;&lt;in OpenCL C#red&gt;&gt; &lt;&lt;source code is passed to the GPU driver for compilation at runtime#red&gt;&gt; &lt;&lt;lose all of the nice compile-time safety checks that Rust#red&gt;&gt; &lt;&lt;NVIDIA-only, CUDA#red&gt;&gt; &lt;&lt;more widely used#green&gt;&gt; &lt;&lt;than OpenCL#red&gt;&gt; &lt;&lt;write C or C++ and mark GPU code with special annotations#green&gt;&gt; &lt;&lt;compiler-wrapper called#green&gt;&gt; &lt;&lt;nvcc#green&gt;&gt; &lt;&lt;CUDA in Rust#red&gt;&gt; &lt;&lt;rustc#green&gt;&gt; &lt;&lt;supports LLVM’s NVPTX backend#green&gt;&gt; &lt;&lt;To compile to PTX, you have to use a specific nightly build (2018-04-10)#red&gt;&gt; &lt;&lt;Xargo to cross-compile#red&gt;&gt; &lt;&lt;core#red&gt;&gt; &lt;&lt;extra LLVM tools#red&gt;&gt; &lt;&lt;compiling them from source#red&gt;&gt; &lt;&lt;invalid PTX file or just crashes#red&gt;&gt; Archived!&lt;&lt;accel@1#red&gt;&gt; &lt;&lt;forked the Rust compiler#red&gt;&gt; &lt;&lt;only works on Linux#red&gt;&gt; &lt;&lt;documentation is poor#red&gt;&gt; &lt;&lt;Rust bindings for many CUDA libraries like#red&gt;&gt; &lt;&lt;CuBLAS#red&gt;&gt; &lt;&lt;also abandoned#red&gt;&gt; &lt;&lt;Collenchyma#red&gt;&gt; &lt;&lt;Parenchyma#red&gt;&gt; &lt;&lt;abandoned as well#red&gt;&gt; &lt;&lt;Higher-Level Libraries#green&gt;&gt; &lt;&lt;arrayfire-rust#green&gt;&gt; &lt;&lt;Rust binding@1#red&gt;&gt; &lt;&lt;pre-baked operations#red&gt;&gt; &lt;&lt;lower-level control to get that last bit of performance, or if your problem doesn’t fit their model, then I think you’re out of luck#red&gt;&gt; NVIDIA&lt;&lt;Thrust#green&gt;&gt; NVIDIA&lt;&lt;OpenACC#green&gt;&gt; &lt;&lt;Vulkano#red&gt;&gt; &lt;&lt;C-like language (similar to the one OpenCL#red&gt;&gt; &lt;&lt;API is quite verbose#red&gt;&gt; &lt;&lt;Vulkan is primarily focused on graphics#red&gt;&gt; &lt;&lt;rlsl#red&gt;&gt; &lt;&lt;shaders for graphics#red&gt;&gt;</title>
