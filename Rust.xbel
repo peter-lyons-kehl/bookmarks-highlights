@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2029: for Floccus bookmark sync browser extension -->
+<!--- highestId :2030: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Algorithms</title>
@@ -4245,6 +4245,9 @@ https://docs.microsoft.com/en-us/windows/terminal/cascadia-code</title>
       <bookmark href="https://github.com/blas-lapack-rs" id="849">
         <title>BLAS and LAPACK for Rust</title>
       </bookmark>
+      <bookmark href="https://github.com/gfx-rs/wgpu" id="2030">
+        <title>gfx-rs/wgpu: A cross-platform, safe, pure-Rust graphics API.</title>
+      </bookmark>
       <bookmark href="https://github.com/gfx-rs/wgpu-rs" id="850">
         <title>wgpu-rs - Emu low level; WASM</title>
       </bookmark>
@@ -4638,7 +4641,7 @@ https://docs.microsoft.com/en-us/windows/terminal/cascadia-code</title>
           <title>Final Code - Learning Rust With Entirely Too Many Linked Lists#__#&lt;&lt;immutable&gt;&gt; &lt;&lt;impl&lt;T&gt; Drop&gt;&gt; &lt;&lt;.take()&gt;&gt; &lt;&lt;if let Ok(mut node) = Rc::try_unwrap(node)&gt;&gt; &lt;&lt;node.next.take()&gt;&gt;</title>
         </bookmark>
         <bookmark href="https://fasterthanli.me/articles/some-mistakes-rust-doesnt-catch" id="2029">
-          <title>Some mistakes Rust doesn&apos;t catch#__#&lt;&lt;Mutex from parking_lot#red&gt;&gt; &lt;&lt;we... never unlock the mutex?&gt;&gt; &lt;&lt;Not explicitly at least.#blue&gt;&gt; </title>
+          <title>Some mistakes Rust doesn&apos;t catch#__#&lt;&lt;Mutex from parking_lot#red&gt;&gt; &lt;&lt;we... never unlock the mutex?&gt;&gt; &lt;&lt;Not explicitly at least.#blue&gt;&gt;</title>
         </bookmark>
         <bookmark href="https://separator.floccus.org/?id=634740" id="1760">
           <title>-----</title>
