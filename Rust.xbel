@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2037: for Floccus bookmark sync browser extension -->
+<!--- highestId :2038: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Algorithms</title>
@@ -4167,6 +4167,9 @@ https://docs.microsoft.com/en-us/windows/terminal/cascadia-code</title>
     <title>Low Level</title>
     <folder id="326">
       <title>Embedded</title>
+      <bookmark href="https://github.com/rust-embedded/awesome-embedded-rust/blob/master/README.md" id="2038">
+        <title>awesome-embedded-rust/README.md at master · rust-embedded/awesome-embedded-rust</title>
+      </bookmark>
       <bookmark href="https://docs.rust-embedded.org/discovery/" id="1992">
         <title>Choose Your Discovery</title>
       </bookmark>
