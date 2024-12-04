@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2034: for Floccus bookmark sync browser extension -->
+<!--- highestId :2035: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Algorithms</title>
@@ -645,8 +645,8 @@
       <bookmark href="https://www.worthe-it.co.za/blog/2020-10-31-newtype-pattern-in-rust.html" id="1164">
         <title>The Newtype Pattern in Rust#__#&lt;&lt;FromStr#green&gt;&gt; &lt;&lt;implement From&lt;T&gt;&gt;&gt; &lt;&lt;Derive More uses procedural macros&gt;&gt; &lt;&lt;StructOpt uses FromStr to parse command line arguments#green&gt;&gt; &lt;&lt;complicated. Serde has a &quot;transparent&quot; option for Newtypes&gt;&gt;</title>
       </bookmark>
-      <bookmark href="https://crates.io/crates/typeables" id="1165">
-        <title>typeables - crates.io: Rust Package Registry</title>
+      <bookmark href="https://github.com/sixarm/typeables-rust-crate/" id="2035">
+        <title>SixArm/typeables-rust-crate: Typeables: Rust crate of type aliases for meaningful programming</title>
       </bookmark>
       <bookmark href="https://crates.io/crates/uom" id="1166">
         <title>uom - crates.io: Rust Package Registry#__#&lt;&lt;automatic#green&gt;&gt; &lt;&lt;zero-cost#green&gt;&gt; &lt;&lt;dimensional analysis#blue&gt;&gt;</title>
