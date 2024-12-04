@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2035: for Floccus bookmark sync browser extension -->
+<!--- highestId :2036: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Algorithms</title>
@@ -647,6 +647,9 @@
       </bookmark>
       <bookmark href="https://github.com/sixarm/typeables-rust-crate/" id="2035">
         <title>SixArm/typeables-rust-crate: Typeables: Rust crate of type aliases for meaningful programming</title>
+      </bookmark>
+      <bookmark href="https://separator.floccus.org/?id=285671" id="2036">
+        <title>-----</title>
       </bookmark>
       <bookmark href="https://gist.github.com/rust-play/959b519914dfe0b92deace425e497f06" id="1167">
         <title>Code shared from the Rust Playground#__#https://play.rust-lang.org/?version=stable&amp;mode=debug&amp;edition=2021&amp;gist=959b519914dfe0b92deace425e497f06&lt;&lt;Rust Playground&gt;&gt; &lt;&lt;impl From&lt;MyLibErr&gt; for OtherLibErr&gt;&gt; &lt;&lt;fn boo() -&gt; Result&lt;(), MyLibErr&gt;&gt;&gt; &lt;&lt;fn test() -&gt; Result&lt;(), OtherLibErr&gt;&gt;&gt; &lt;&lt;boo()?;#green&gt;&gt;</title>
