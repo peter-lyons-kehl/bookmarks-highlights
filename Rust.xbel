@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2033: for Floccus bookmark sync browser extension -->
+<!--- highestId :2034: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Algorithms</title>
@@ -635,6 +635,9 @@
       </bookmark>
       <bookmark href="https://mmapped.blog/posts/25-domain-types" id="2032">
         <title>Universal domain types</title>
+      </bookmark>
+      <bookmark href="https://github.com/roman-kashitsyn/mmapped.blog/issues/50" id="2034">
+        <title>Article: universal domain types · Issue #50 · roman-kashitsyn/mmapped.blog</title>
       </bookmark>
       <bookmark href="https://github.com/JelteF/derive_more" id="2033">
         <title>JelteF/derive_more: Some more derive(Trait) options</title>
