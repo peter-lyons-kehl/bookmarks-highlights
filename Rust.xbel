@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2045: for Floccus bookmark sync browser extension -->
+<!--- highestId :2046: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Algorithms</title>
@@ -4965,6 +4965,9 @@ https://docs.microsoft.com/en-us/windows/terminal/cascadia-code</title>
     </bookmark>
     <bookmark href="https://github.com/jonhoo/bustle" id="2045">
       <title>jonhoo/bustle: A benchmarking harness for concurrent key-value collections</title>
+    </bookmark>
+    <bookmark href="https://github.com/xacrimon/dashmap" id="2046">
+      <title>xacrimon/dashmap: Blazing fast concurrent HashMap for Rust.</title>
     </bookmark>
   </folder>
   <folder id="72">
