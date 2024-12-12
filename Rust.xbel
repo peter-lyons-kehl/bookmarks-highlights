@@ -3968,7 +3968,7 @@ https://docs.microsoft.com/en-us/windows/terminal/cascadia-code</title>
       <title>A sound way to create a default &quot;empty&quot; instance of a Rust struct with type parameters, which wraps a Vec&lt;T&gt;? - Stack Overflow#__#&lt;&lt;empty Vec initializes the data pointer using NonNull&lt;T&gt;::dangling()&gt;&gt; &lt;&lt;pointer that is well-aligned for T&gt;&gt; &lt;&lt;different for different types#red&gt;&gt; &lt;&lt;create a generic const#green&gt;&gt; &lt;&lt;just a bit clunky&gt;&gt; &lt;&lt;need to use an associated const:#green&gt;&gt; &lt;&lt;fn empty_vec&lt;T&gt;()&gt;&gt; &lt;&lt;struct Foo&lt;T&gt;&gt;&gt; &lt;&lt;impl&lt;T: &apos;static&gt; Foo&lt;T&gt;&gt;&gt; &lt;&lt;const VEC:&gt;&gt; &lt;&lt;When inline_const will be stabilized#green&gt;&gt;</title>
     </bookmark>
     <bookmark href="https://stackoverflow.com/questions/71946484/why-is-vec0-super-large-number-so-memory-efficient-when-the-default-value" id="2049">
-      <title>rust - Why is vec![0, &lt;super large number&gt;] so memory-efficient when the default value is 0? - Stack Overflow#__#&lt;&lt;nearly every OS&gt;&gt; </title>
+      <title>rust - Why is vec![0, &lt;super large number&gt;] so memory-efficient when the default value is 0? - Stack Overflow#__#&lt;&lt;nearly every OS&gt;&gt; &lt;&lt;to be zeroed&gt;&gt; </title>
     </bookmark>
     <bookmark href="https://separator.floccus.org/?id=474124" id="299">
       <title>-----</title>
