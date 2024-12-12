@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2048: for Floccus bookmark sync browser extension -->
+<!--- highestId :2049: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Algorithms</title>
@@ -3965,7 +3965,10 @@ https://docs.microsoft.com/en-us/windows/terminal/cascadia-code</title>
       <title>VecDeque in alloc::collections::vec_deque - Rust#__#&lt;&lt;“default” usage#green&gt;&gt; &lt;&lt;push_back to add#green&gt;&gt; &lt;&lt;pop_front to remove#green&gt;&gt; &lt;&lt;pub fn partition_point&gt;&gt; &lt;&lt;kind of binary search#green&gt;&gt; &lt;&lt;R: RangeBounds#green&gt;&gt; &lt;&lt;new capacity overflows usize#red&gt;&gt; &lt;&lt;no extra space#green&gt;&gt; &lt;&lt;Extend&lt;&amp;&apos;a T&gt; for VecDeque&gt;&gt;</title>
     </bookmark>
     <bookmark href="https://stackoverflow.com/questions/75681026/a-sound-way-to-create-a-default-empty-instance-of-a-rust-struct-with-type-para" id="2048">
-      <title>A sound way to create a default &quot;empty&quot; instance of a Rust struct with type parameters, which wraps a Vec&lt;T&gt;? - Stack Overflow#__#&lt;&lt;empty Vec initializes the data pointer using NonNull&lt;T&gt;::dangling()&gt;&gt; &lt;&lt;pointer that is well-aligned for T&gt;&gt; &lt;&lt;different for different types#red&gt;&gt; &lt;&lt;create a generic const#green&gt;&gt; &lt;&lt;just a bit clunky&gt;&gt; &lt;&lt;need to use an associated const:#green&gt;&gt; &lt;&lt;fn empty_vec&lt;T&gt;()&gt;&gt; &lt;&lt;struct Foo&lt;T&gt;&gt;&gt; &lt;&lt;impl&lt;T: &apos;static&gt; Foo&lt;T&gt;&gt;&gt; &lt;&lt;const VEC:&gt;&gt; &lt;&lt;When inline_const will be stabilized#green&gt;&gt; </title>
+      <title>A sound way to create a default &quot;empty&quot; instance of a Rust struct with type parameters, which wraps a Vec&lt;T&gt;? - Stack Overflow#__#&lt;&lt;empty Vec initializes the data pointer using NonNull&lt;T&gt;::dangling()&gt;&gt; &lt;&lt;pointer that is well-aligned for T&gt;&gt; &lt;&lt;different for different types#red&gt;&gt; &lt;&lt;create a generic const#green&gt;&gt; &lt;&lt;just a bit clunky&gt;&gt; &lt;&lt;need to use an associated const:#green&gt;&gt; &lt;&lt;fn empty_vec&lt;T&gt;()&gt;&gt; &lt;&lt;struct Foo&lt;T&gt;&gt;&gt; &lt;&lt;impl&lt;T: &apos;static&gt; Foo&lt;T&gt;&gt;&gt; &lt;&lt;const VEC:&gt;&gt; &lt;&lt;When inline_const will be stabilized#green&gt;&gt;</title>
+    </bookmark>
+    <bookmark href="https://stackoverflow.com/questions/71946484/why-is-vec0-super-large-number-so-memory-efficient-when-the-default-value" id="2049">
+      <title>rust - Why is vec![0, &lt;super large number&gt;] so memory-efficient when the default value is 0? - Stack Overflow</title>
     </bookmark>
     <bookmark href="https://separator.floccus.org/?id=474124" id="299">
       <title>-----</title>
