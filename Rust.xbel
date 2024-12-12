@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2051: for Floccus bookmark sync browser extension -->
+<!--- highestId :2052: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Algorithms</title>
@@ -4526,7 +4526,7 @@ https://docs.microsoft.com/en-us/windows/terminal/cascadia-code</title>
       </bookmark>
     </folder>
     <folder id="337">
-      <title>zero copy</title>
+      <title>zero copy serialization</title>
       <bookmark href="https://github.com/udoprog/musli/tree/main/crates/musli-zerocopy" id="917">
         <title>musli/crates/musli-zerocopy at main · udoprog/musli</title>
       </bookmark>
@@ -4557,6 +4557,9 @@ https://docs.microsoft.com/en-us/windows/terminal/cascadia-code</title>
       <bookmark href="https://docs.rs/fasteval/0.2.4/fasteval/slab/" id="925">
         <title>fasteval::slab - Rust - by Christopher Sebastian#__#&lt;&lt;one single, large allocation#green&gt;&gt; &lt;&lt;many small allocations#red&gt;&gt; &lt;&lt;re-use a Slab#green&gt;&gt; &lt;&lt;Slab is the main key to fasteval&apos;s excellent performance#green&gt;&gt; &lt;&lt;ExpressionI, ValueI, and InstructionI index types#green&gt;&gt; &lt;&lt;index types are necessary to side-step the Rust borrow checker&gt;&gt; &lt;&lt;borrow-splitting of contiguous allocations (like arrays)#red&gt;&gt; &lt;&lt;mutate a Slab while simultaneously holding references&gt;&gt; &lt;&lt;Slab contains two fields: ps (&quot;Parse Slab&quot;) and cs (&quot;Compile Slab&quot;)&gt;&gt; &lt;&lt;two fields can be borrowed and mutated independently&gt;&gt;</title>
       </bookmark>
+    </folder>
+    <folder id="2052">
+      <title>New folder</title>
     </folder>
   </folder>
   <folder id="68">
