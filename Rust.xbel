@@ -4525,6 +4525,12 @@ https://docs.microsoft.com/en-us/windows/terminal/cascadia-code</title>
         <title>How unsafe is mmap? - help - The Rust...#__#&lt;&lt;&amp;[Cell&lt;u8&gt;] (or, equivalently, &amp;Cell&lt;[u8]&gt; ) and &amp;[AtomicU8]#green&gt;&gt;</title>
       </bookmark>
     </folder>
+    <folder id="2052">
+      <title>zero copy default initialization</title>
+      <bookmark href="https://github.com/google/zerocopy/blob/main/README.md" id="2050">
+        <title>zerocopy/README.md at main · google/zerocopy#__#&lt;&lt;derivable traits&gt;&gt; &lt;&lt;zero-cost conversions&gt;&gt; </title>
+      </bookmark>
+    </folder>
     <folder id="337">
       <title>zero copy serialization</title>
       <bookmark href="https://github.com/udoprog/musli/tree/main/crates/musli-zerocopy" id="917">
@@ -4553,12 +4559,6 @@ https://docs.microsoft.com/en-us/windows/terminal/cascadia-code</title>
       </bookmark>
       <bookmark href="https://docs.rs/fasteval/0.2.4/fasteval/slab/" id="925">
         <title>fasteval::slab - Rust - by Christopher Sebastian#__#&lt;&lt;one single, large allocation#green&gt;&gt; &lt;&lt;many small allocations#red&gt;&gt; &lt;&lt;re-use a Slab#green&gt;&gt; &lt;&lt;Slab is the main key to fasteval&apos;s excellent performance#green&gt;&gt; &lt;&lt;ExpressionI, ValueI, and InstructionI index types#green&gt;&gt; &lt;&lt;index types are necessary to side-step the Rust borrow checker&gt;&gt; &lt;&lt;borrow-splitting of contiguous allocations (like arrays)#red&gt;&gt; &lt;&lt;mutate a Slab while simultaneously holding references&gt;&gt; &lt;&lt;Slab contains two fields: ps (&quot;Parse Slab&quot;) and cs (&quot;Compile Slab&quot;)&gt;&gt; &lt;&lt;two fields can be borrowed and mutated independently&gt;&gt;</title>
-      </bookmark>
-    </folder>
-    <folder id="2052">
-      <title>zero copy default initialization</title>
-      <bookmark href="https://github.com/google/zerocopy/blob/main/README.md" id="2050">
-        <title>zerocopy/README.md at main · google/zerocopy#__#&lt;&lt;derivable traits&gt;&gt;</title>
       </bookmark>
     </folder>
   </folder>
