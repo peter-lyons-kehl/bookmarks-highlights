@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2050: for Floccus bookmark sync browser extension -->
+<!--- highestId :2051: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Algorithms</title>
@@ -4527,11 +4527,14 @@ https://docs.microsoft.com/en-us/windows/terminal/cascadia-code</title>
     </folder>
     <folder id="337">
       <title>zero copy</title>
+      <bookmark href="https://github.com/udoprog/musli/tree/main/crates/musli-zerocopy" id="917">
+        <title>musli/crates/musli-zerocopy at main · udoprog/musli</title>
+      </bookmark>
       <bookmark href="https://github.com/google/zerocopy/blob/main/README.md" id="2050">
         <title>zerocopy/README.md at main · google/zerocopy#__#&lt;&lt;derivable traits&gt;&gt;</title>
       </bookmark>
-      <bookmark href="https://github.com/udoprog/musli/tree/main/crates/musli-zerocopy" id="917">
-        <title>musli/crates/musli-zerocopy at main · udoprog/musli</title>
+      <bookmark href="https://github.com/google/flatbuffers/blob/master/rust/flexbuffers/src/buffer.rs" id="2051">
+        <title>flatbuffers/rust/flexbuffers/src/buffer.rs at master · google/flatbuffers</title>
       </bookmark>
     </folder>
     <folder id="338">
