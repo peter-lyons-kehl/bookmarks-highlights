@@ -4525,7 +4525,7 @@ https://docs.microsoft.com/en-us/windows/terminal/cascadia-code</title>
     <folder id="2054">
       <title>overcommit, OOM</title>
       <bookmark href="https://users.rust-lang.org/t/handling-memory-exhaustion-state-of-the-art/87375" id="2055">
-        <title>Handling memory exhaustion – State of the art? - help - The Rust Programming Language Forum#__#&lt;&lt;a hosted&gt;&gt; &lt;&lt;target@1&gt;&gt; &lt;&lt;(multitasking OS&gt;&gt; &lt;&lt;program probably isn&apos;t going to live to see an OOM condition#red&gt;&gt; </title>
+        <title>Handling memory exhaustion – State of the art? - help - The Rust Programming Language Forum#__#&lt;&lt;a hosted&gt;&gt; &lt;&lt;target@1&gt;&gt; &lt;&lt;(multitasking OS&gt;&gt; &lt;&lt;program probably isn&apos;t going to live to see an OOM condition#red&gt;&gt; &lt;&lt;Allocations which are too large to ever succeed will fail#blue&gt;&gt; &lt;&lt;but most modern OSes use delayed page allocation&gt;&gt; </title>
       </bookmark>
     </folder>
     <folder id="337">
