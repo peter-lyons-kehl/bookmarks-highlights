@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2054: for Floccus bookmark sync browser extension -->
+<!--- highestId :2055: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Algorithms</title>
@@ -4522,6 +4522,21 @@ https://docs.microsoft.com/en-us/windows/terminal/cascadia-code</title>
         <title>How unsafe is mmap? - help - The Rust...#__#&lt;&lt;&amp;[Cell&lt;u8&gt;] (or, equivalently, &amp;Cell&lt;[u8]&gt; ) and &amp;[AtomicU8]#green&gt;&gt;</title>
       </bookmark>
     </folder>
+    <folder id="2054">
+      <title>overcommit, OOM</title>
+      <bookmark href="https://users.rust-lang.org/t/handling-memory-exhaustion-state-of-the-art/87375" id="2055">
+        <title>Handling memory exhaustion – State of the art? - help - The Rust Programming Language Forum#__#&lt;&lt;a hosted&gt;&gt; &lt;&lt;target@1&gt;&gt; &lt;&lt;(multitasking OS&gt;&gt; &lt;&lt;program probably isn&apos;t going to live to see an OOM condition#red&gt;&gt; </title>
+      </bookmark>
+    </folder>
+    <folder id="337">
+      <title>zero copy serialization</title>
+      <bookmark href="https://github.com/udoprog/musli/tree/main/crates/musli-zerocopy" id="917">
+        <title>musli/crates/musli-zerocopy at main · udoprog/musli#__#&lt;&lt;zerocopy doesn&apos;t support padded#red&gt;&gt; &lt;&lt;rkyv operates on #[repr(Rust)]#red&gt;&gt; &lt;&lt;derives an optimized Archived variation#blue&gt;&gt; &lt;&lt;This library lets you build the equivalent of the Archived variant directly#green&gt;&gt; &lt;&lt;Not validating is not an option#red&gt;&gt; &lt;&lt;unsound#red&gt;&gt; &lt;&lt;vulnerable to malicious dictionary files#red&gt;&gt;</title>
+      </bookmark>
+      <bookmark href="https://github.com/google/flatbuffers/blob/master/rust/flexbuffers/src/buffer.rs" id="2051">
+        <title>flatbuffers/rust/flexbuffers/src/buffer.rs at master · google/flatbuffers</title>
+      </bookmark>
+    </folder>
     <folder id="2052">
       <title>zerocopy zero copy default initialization</title>
       <bookmark href="https://docs.rs/zerocopy/latest/zerocopy/derive.FromZeros.html" id="2053">
@@ -4532,15 +4547,6 @@ https://docs.microsoft.com/en-us/windows/terminal/cascadia-code</title>
       </bookmark>
       <bookmark href="https://stackoverflow.com/questions/71946484/why-is-vec0-super-large-number-so-memory-efficient-when-the-default-value" id="2049">
         <title>rust - Why is vec![0, &lt;super large number&gt;] so memory-efficient when the default value is 0? - Stack Overflow#__#&lt;&lt;nearly every OS&gt;&gt; &lt;&lt;to be zeroed&gt;&gt; &lt;&lt;type of the vector is numeric&gt;&gt; &lt;&lt;initial value given is zero&gt;&gt; &lt;&lt;__rust_alloc_zeroed&gt;&gt; &lt;&lt;On Unix&gt;&gt; &lt;&lt;calloc() or posix_memalign()&gt;&gt; &lt;&lt;calloc() guarantees that the allocation is zeroed#green&gt;&gt; &lt;&lt;posix_memalign() does not#red&gt;&gt; &lt;&lt;request cannot be satisfied by the library using previously-freed memory&gt;&gt; &lt;&lt;request is passed on to the kernel&gt;&gt; &lt;&lt;overcommitment&gt;&gt; &lt;&lt;mmap always hands out zeroed#green&gt;&gt; &lt;&lt;malloc can return previously-allocated memory from the process&apos; libc allocator, which may not be zeroed#red&gt;&gt; &lt;&lt;so Rust would have to zero-init the whole allocation#red&gt;&gt; &lt;&lt;calloc is the only way this can be fast#green&gt;&gt;</title>
-      </bookmark>
-    </folder>
-    <folder id="337">
-      <title>zero copy serialization</title>
-      <bookmark href="https://github.com/udoprog/musli/tree/main/crates/musli-zerocopy" id="917">
-        <title>musli/crates/musli-zerocopy at main · udoprog/musli#__#&lt;&lt;zerocopy doesn&apos;t support padded#red&gt;&gt; &lt;&lt;rkyv operates on #[repr(Rust)]#red&gt;&gt; &lt;&lt;derives an optimized Archived variation#blue&gt;&gt; &lt;&lt;This library lets you build the equivalent of the Archived variant directly#green&gt;&gt; &lt;&lt;Not validating is not an option#red&gt;&gt; &lt;&lt;unsound#red&gt;&gt; &lt;&lt;vulnerable to malicious dictionary files#red&gt;&gt;</title>
-      </bookmark>
-      <bookmark href="https://github.com/google/flatbuffers/blob/master/rust/flexbuffers/src/buffer.rs" id="2051">
-        <title>flatbuffers/rust/flexbuffers/src/buffer.rs at master · google/flatbuffers</title>
       </bookmark>
     </folder>
     <folder id="338">
@@ -4563,9 +4569,6 @@ https://docs.microsoft.com/en-us/windows/terminal/cascadia-code</title>
       <bookmark href="https://docs.rs/fasteval/0.2.4/fasteval/slab/" id="925">
         <title>fasteval::slab - Rust - by Christopher Sebastian#__#&lt;&lt;one single, large allocation#green&gt;&gt; &lt;&lt;many small allocations#red&gt;&gt; &lt;&lt;re-use a Slab#green&gt;&gt; &lt;&lt;Slab is the main key to fasteval&apos;s excellent performance#green&gt;&gt; &lt;&lt;ExpressionI, ValueI, and InstructionI index types#green&gt;&gt; &lt;&lt;index types are necessary to side-step the Rust borrow checker&gt;&gt; &lt;&lt;borrow-splitting of contiguous allocations (like arrays)#red&gt;&gt; &lt;&lt;mutate a Slab while simultaneously holding references&gt;&gt; &lt;&lt;Slab contains two fields: ps (&quot;Parse Slab&quot;) and cs (&quot;Compile Slab&quot;)&gt;&gt; &lt;&lt;two fields can be borrowed and mutated independently&gt;&gt;</title>
       </bookmark>
-    </folder>
-    <folder id="2054">
-      <title>overcommit, OOM</title>
     </folder>
   </folder>
   <folder id="68">
