@@ -4528,7 +4528,7 @@ https://docs.microsoft.com/en-us/windows/terminal/cascadia-code</title>
         <title>Handling memory exhaustion – State of the art? - help - The Rust Programming Language Forum#__#&lt;&lt;a hosted&gt;&gt; &lt;&lt;target@1&gt;&gt; &lt;&lt;(multitasking OS&gt;&gt; &lt;&lt;program probably isn&apos;t going to live to see an OOM condition#red&gt;&gt; &lt;&lt;Allocations which are too large to ever succeed will fail#blue&gt;&gt; &lt;&lt;but most modern OSes use delayed page allocation&gt;&gt; &lt;&lt;doesn&apos;t result in reasonably sized allocations failing#red&gt;&gt; &lt;&lt;results in your program getting killed by the OS OOM killer#red&gt;&gt;</title>
       </bookmark>
       <bookmark href="https://vgel.me/posts/mmap-arena-alloc/" id="2056">
-        <title>mmap(1Tb): A Rust arena allocator (ab)using Linux overcommit</title>
+        <title>mmap(1Tb): A Rust arena allocator (ab)using Linux overcommit#__#&lt;&lt;fn alloc&lt;&apos;a&gt;(&amp;&apos;a self, value: T) -&gt; &amp;&apos;a mut T&gt;&gt; &lt;&lt;Clippy even warns about this as &quot;trivially unsound&quot;#red&gt;&gt; </title>
       </bookmark>
     </folder>
     <folder id="337">
