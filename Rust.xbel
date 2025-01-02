@@ -3203,7 +3203,7 @@ https://docs.microsoft.com/en-us/windows/terminal/cascadia-code</title>
       <title>rfcs/1023-rebalancing-coherence.md at master · rust-lang/rfcs · GitHub#__#&lt;&lt;Feature Name: fundamental_attribute&gt;&gt; &lt;&lt;#[fundamental]&gt;&gt;</title>
     </bookmark>
     <bookmark href="https://predr.ag/blog/definitive-guide-to-sealed-traits-in-rust/" id="1745">
-      <title>A definitive guide to sealed traits in Rust#__#&lt;&lt;pub trait PublicTrait : PrivateTrait {}#red&gt;&gt; </title>
+      <title>A definitive guide to sealed traits in Rust#__#&lt;&lt;pub trait PublicTrait : PrivateTrait {}#red&gt;&gt; &lt;&lt;But a Rust type can be public#green&gt;&gt; &lt;&lt;without its name being public#red&gt;&gt; </title>
     </bookmark>
   </folder>
   <folder id="1414">
